@@ -1,0 +1,605 @@
+HotelID,City,Total Price (USD),Hotel Name,Region,Distance,Rating,Rating (Text),Price,Tax,Location,Breakfast,Availability
+1,Bratislava,67,CHORS like a hotel - 1st World NFT Block & Art Capsule Hostel MetaCHORS,"Stare Mesto, Bratislava",0.6 km from downtown,8.5,Very Good,53,14,Location 9.4,FALSE,
+2,Kotor,70,MAISON W,Kotor,1.4 km from downtown,9.3,Wonderful,57,,,FALSE,Only 1 left at this price on our site
+3,Dubrovnik,73,Luxury Sea View Apartments,"Babin Kuk, Dubrovnik",3.6 km from downtown,9.4,Wonderful,73,,,FALSE,
+4,Kotor,75,Iberostar Waves Slavija,Budva,16.5 km from Kotor,9.1,Wonderful,75,,,TRUE,Only 2 rooms left at this price on our site
+5,Kotor,76,Casa del Sol Rozalija Luxury Rooms,Kotor,7.2 km from downtown,9.2,Wonderful,74,,,FALSE,Only 2 rooms left at this price on our site
+6,Kotor,76,Moderna Luxury Apartments with HEATED pool,Tivat,6.9 km from Kotor,9.1,Wonderful,74,,,FALSE,Only 1 left at this price on our site
+7,Kotor,84,C Group apartments,Kotor,1.7 km from downtown,9.5,Exceptional,82,,,TRUE,Only 1 left at this price on our site
+8,Prague,87,Urban Creme,"Prague 1, Prague",1.2 km from downtown,8.5,Very Good,74,13,,FALSE,
+9,Warsaw,87,Regent Warsaw Hotel,"Sródmiescie, Warsaw",2.8 km from downtown,8.3,Very Good,87,0,,FALSE,
+10,Vienna,88,Apartment Dahlia Vienna,"09. Alsergrund, Vienna",2.3 km from downtown,8.4,Very Good,45,,,FALSE,Only 1 left at this price on our site
+11,Prague,90,Mamaison Hotel Riverside Prague,"Prague 5, Prague",1.7 km from downtown,8.5,Very Good,77,13,,FALSE,
+12,Ljubljana,99,Victoria Apartment,Ljubljana,4 km from downtown,8.5,Very Good,77,,,FALSE,
+13,Prague,101,Occidental Praha Wilson,"Prague 1, Prague",1.1 km from downtown,8.6,Excellent,97,4,Location 9.6,FALSE,Only 3 rooms left at this price on our site
+14,Prague,105,Ambassador Zlata Husa,"Prague 1, Prague",450 m from downtown,7.9,Good,94,11,Location 9.6,TRUE,
+15,Prague,106,Grand Hotel Prague Towers - Czech Leading Hotels,"Prague 4, Prague",2.8 km from downtown,8.8,Excellent,106,0,,FALSE,
+16,Dubrovnik,106,Royal Ariston Hotel,"Babin Kuk, Dubrovnik",4.6 km from downtown,8.9,Excellent,80,,,TRUE,
+17,Warsaw,108,The Westin Warsaw,"Wola, Warsaw",1 km from downtown,9,Wonderful,100,8,Location 9.4,FALSE,
+18,Riga,108,Pullman Riga Old Town,"City Center, Riga",300 m from downtown,8.6,Excellent,106,2,Location 9.5,FALSE,
+19,Kotor,109,Montenegro Lodge,Tivat,2.8 km from Kotor,8.6,Excellent,109,,,TRUE,
+20,Bratislava,110,Flora Cozy Apartment,"Nove Mesto, Bratislava",3.2 km from downtown,8,Very Good,73,37,,FALSE,Only 1 left at this price on our site
+21,Prague,114,Eurostars Thalia,"Prague 1, Prague",0.7 km from downtown,8.8,Excellent,110,4,Location 9.6,FALSE,
+22,Kotor,115,Hotel Gradska Cetinje,Cetinje,13.3 km from Kotor,9.2,Wonderful,113,,,TRUE,Only 2 rooms left at this price on our site
+23,Lisbon,117,Eurostars Universal Lisboa,"Parque das Nacoes, Lisbon",6.5 km from downtown,8.7,Excellent,110,,,FALSE,
+24,London,117,Eurostars Universal Lisboa,"Parque das Nacoes, Lisbon",6.5 km from downtown,8.7,Excellent,110,,,FALSE,
+25,Bratislava,118,Vesna Convenient Apartment,"Ruzinov, Bratislava",4.3 km from downtown,8,Very Good,81,37,,FALSE,
+26,Warsaw,118,Sofitel Warsaw Victoria,"Sródmiescie, Warsaw",1.2 km from downtown,8.9,Excellent,118,0,Location 9.6,FALSE,
+27,Kotor,120,Sea Star Budva,Budva,18.1 km from Kotor,8.9,Excellent,116,,,TRUE,
+28,Bratislava,120,Jarila Boutique Apartment,"Stare Mesto, Bratislava",1.8 km from downtown,8.3,Very Good,82,38,,FALSE,Only 1 left at this price on our site
+29,Bratislava,122,Marrol's Boutique Hotel,"Stare Mesto, Bratislava",450 m from downtown,9.2,Wonderful,99,23,Location 9.5,FALSE,
+30,Prague,122,Le Palais Art Hotel Prague,"Prague 2, Prague",2.2 km from downtown,8.7,Excellent,118,4,,TRUE,Only 3 rooms left at this price on our site
+31,Warsaw,123,Renaissance Warsaw Airport Hotel,"Wlochy, Warsaw",6.8 km from downtown,9.1,Wonderful,114,9,Location 9.7,FALSE,
+32,Kotor,124,Hotel Imperial Conference & Spa,Budva,16.8 km from Kotor,9.2,Wonderful,122,,,TRUE,Only 6 rooms left at this price on our site
+33,Bratislava,129,Zora Exclusive Apartment,"Stare Mesto, Bratislava",1.3 km from downtown,8.6,Excellent,91,38,Location 9.5,FALSE,
+34,Lisbon,130,VIP Grand Lisboa Hotel & Spa,"Avenidas Novas, Lisbon",3.3 km from downtown,7.8,Good,122,,,FALSE,
+35,Warsaw,130,Sheraton Grand Warsaw,"Sródmiescie, Warsaw",1.1 km from downtown,9,Wonderful,120,10,Location 9.4,FALSE,Only 5 rooms left at this price on our site
+36,London,130,VIP Grand Lisboa Hotel & Spa,"Avenidas Novas, Lisbon",3.3 km from downtown,7.8,Good,122,,,FALSE,
+37,Riga,130,Grand Poet Hotel and SPA by Semarah,"City Center, Riga",0.5 km from downtown,9.3,Wonderful,124,6,Location 9.7,TRUE,
+38,Prague,130,Grandior Hotel Prague,"Prague 1, Prague",1.1 km from downtown,8.7,Excellent,116,14,,FALSE,
+39,Kotor,131,Boutique Hotel La Roche,Tivat,6 km from Kotor,9.4,Wonderful,128,,,TRUE,Only 2 rooms left at this price on our site
+40,Vienna,132,Nadland Apartments B61,"21. Floridsdorf, Vienna",7 km from downtown,8.8,Excellent,132,,,FALSE,
+41,Warsaw,133,Mamaison Le Regina Boutique Hotel,"Sródmiescie, Warsaw",2.7 km from downtown,9,Wonderful,133,0,Location 9.5,FALSE,
+42,Prague,133,Hilton Prague Hotel,"Prague 8, Prague",1.5 km from downtown,8.1,Very Good,133,0,,FALSE,
+43,Kotor,134,Galathea House,Kotor,3.9 km from downtown,10,Exceptional,134,,,TRUE,Only 1 left at this price on our site
+44,Budapest,134,Kozmo Residences Budapest,"08. Józsefváros, Budapest",1.6 km from downtown,9.2,Wonderful,134,,,FALSE,Only 4 left at this price on our site
+45,Warsaw,136,Nobu Hotel Warsaw,"Sródmiescie, Warsaw",0.7 km from downtown,9,Wonderful,136,0,Location 9.3,FALSE,
+46,Budapest,136,Pullman Budapest,"06. Terézváros, Budapest",0.8 km from downtown,8.8,Excellent,136,,,FALSE,
+47,Dubrovnik,137,Royal Princess Hotel,"Babin Kuk, Dubrovnik",4.4 km from downtown,9.1,Wonderful,104,,,TRUE,
+48,Prague,137,Hotel BOOKQUET,"Prague 1, Prague",0.6 km from downtown,8.6,Excellent,133,4,Location 9.6,TRUE,Only 1 room left at this price on our site
+49,Vienna,138,Nadland Apartment Wehlistrasse,"20. Brigittenau, Vienna",3.6 km from downtown,8.7,Excellent,138,,,FALSE,Only 2 left at this price on our site
+50,Prague,139,Esplanade Hotel Prague,"Prague 1, Prague",1 km from downtown,8.3,Very Good,120,19,Location 9.4,FALSE,
+51,Riga,139,Grand Palace Hotel - The Leading Hotels of the World,"City Center, Riga",200 m from downtown,9,Wonderful,124,15,Location 9.7,FALSE,
+52,Prague,140,Hilton Prague Old Town,"Prague 1, Prague",0.8 km from downtown,8.3,Very Good,140,0,Location 9.4,FALSE,
+53,Warsaw,141,"Radisson Collection Hotel, Warsaw","Sródmiescie, Warsaw",1 km from downtown,9.1,Wonderful,141,0,Location 9.3,FALSE,
+54,Bratislava,142,Slavic Spacious Apartment,"Nove Mesto, Bratislava",3.2 km from downtown,8.5,Very Good,84,58,,FALSE,
+55,Vienna,144,Viva La Vienna Apartments,"10. Favoriten, Vienna",4.2 km from downtown,9,Wonderful,83,,,FALSE,Only 1 left at this price on our site
+56,Prague,144,Airport Luxury Apartment & Spa Prague,"Prague 6, Prague",7.6 km from downtown,9.8,Exceptional,144,0,,FALSE,Only 1 left at this price on our site
+57,Vilnius,144,"Radisson Collection Astorija Hotel, Vilnius","Vilnius Old Town, Vilnius",1.1 km from downtown,9.1,Wonderful,140,,Location 9.8,FALSE,
+58,Rome,145,La Griffe Hotel Roma,"Central Station, Rome",1.1 km from downtown,7.7,Good,132,13,,FALSE,
+59,Prague,146,Jalta Boutique Hotel,"Prague 1, Prague",0.9 km from downtown,8.3,Very Good,142,4,Location 9.5,FALSE,
+60,Bratislava,146,Sheraton Bratislava Hotel,Bratislava,1.1 km from downtown,8.6,Excellent,140,6,Location 9.3,FALSE,
+61,Lisbon,148,TURIM Boulevard Hotel,"Santo Antonio, Lisbon",0.9 km from downtown,8.6,Excellent,148,,Location 9.6,FALSE,
+62,London,148,TURIM Boulevard Hotel,"Santo Antonio, Lisbon",0.9 km from downtown,8.6,Excellent,148,,Location 9.6,FALSE,
+63,Prague,148,Luxury Family Hotel Royal Palace,"Prague 1, Prague",1 km from downtown,7.6,Good,148,0,Location 9.3,FALSE,
+64,Kotor,150,La Fleur Boutique Hotel,Tivat,6.1 km from Kotor,9.4,Wonderful,147,,,TRUE,
+65,Prague,150,Grandium Hotel Prague,"Prague 1, Prague",0.8 km from downtown,8.7,Excellent,130,20,Location 9.5,FALSE,
+66,Vilnius,151,Imperial Hotel & Restaurant,"Vilnius Old Town, Vilnius",1.2 km from downtown,8.9,Excellent,147,,Location 9.7,FALSE,
+67,Lisbon,151,Eurostars Das Letras,"Santo Antonio, Lisbon",1.1 km from downtown,8.6,Excellent,143,,,FALSE,
+68,London,151,Eurostars Das Letras,"Santo Antonio, Lisbon",1.1 km from downtown,8.6,Excellent,143,,,FALSE,
+69,Lisbon,153,"The Editory Riverside Hotel, an Historic Hotel","Sao Vicente, Lisbon",1.5 km from downtown,8.5,Very Good,145,,,FALSE,Only 7 rooms left at this price on our site
+70,London,153,"The Editory Riverside Hotel, an Historic Hotel","Sao Vicente, Lisbon",1.5 km from downtown,8.5,Very Good,145,,,FALSE,Only 7 rooms left at this price on our site
+71,Vilnius,156,Relais & Châteaux Stikliai Hotel,"Vilnius Old Town, Vilnius",0.8 km from downtown,9.4,Wonderful,149,,Location 9.9,FALSE,
+72,Warsaw,156,"InterContinental Warszawa, an IHG Hotel","Sródmiescie, Warsaw",0.5 km from downtown,9.1,Wonderful,156,0,Location 9.7,FALSE,
+73,Budapest,157,Queen's Court Hotel & Residence,"07. Erzsébetváros, Budapest",0.9 km from downtown,9.2,Wonderful,157,,,FALSE,
+74,Kotor,158,Boutique Hotel Astoria,"Kotor Old Town, Kotor",100 m from downtown,8.9,Excellent,158,,,TRUE,Only 6 rooms left at this price on our site
+75,Prague,159,Hotel Hoffmeister,"Prague 1, Prague",1.1 km from downtown,8.6,Excellent,155,4,,TRUE,Only 5 rooms left at this price on our site
+76,Budapest,161,Hilton Budapest,"01. Budavár, Budapest",1.8 km from downtown,8.8,Excellent,161,,Location 9.5,FALSE,
+77,Ljubljana,161,"InterContinental - Ljubljana, an IHG Hotel","Ljubljana City Centre, Ljubljana",0.6 km from downtown,9,Wonderful,155,,,FALSE,
+78,Vilnius,161,"Grand Hotel Vilnius, Curio Collection by Hilton","Vilnius Old Town, Vilnius",350 m from downtown,9.1,Wonderful,157,,Location 9.8,FALSE,
+79,Dubrovnik,163,Royal Palm Hotel,"Babin Kuk, Dubrovnik",4.5 km from downtown,8.9,Excellent,157,,,TRUE,
+80,Warsaw,163,"H15 Boutique Hotel, Warsaw, a Member of Design Hotels","Sródmiescie, Warsaw",0.5 km from downtown,9,Wonderful,163,0,Location 9.4,FALSE,
+81,Budapest,163,"InterContinental Budapest, an IHG Hotel","05. Belváros - Lipótváros, Budapest",0.6 km from downtown,8.7,Excellent,163,,Location 9.7,FALSE,Only 6 rooms left at this price on our site
+82,Amsterdam,163,Bilderberg Garden Hotel,"Oud Zuid, Amsterdam",2.7 km from downtown,7.8,Good,142,"1 night, 2 adults",,FALSE,
+83,Prague,165,MN6 Luxury Suites by Adrez,"Prague 2, Prague",1.3 km from downtown,9,Wonderful,165,0,Location 9.5,FALSE,Only 1 left at this price on our site
+84,London,166,Wine & Books Lisboa Hotel,"Ajuda, Lisbon",5.6 km from downtown,9.3,Wonderful,166,,,TRUE,
+85,Lisbon,166,Wine & Books Lisboa Hotel,"Ajuda, Lisbon",5.6 km from downtown,9.3,Wonderful,166,,,TRUE,
+86,Budapest,166,Áurea Ana Palace by Eurostars Hotel Company,"05. Belváros - Lipótváros, Budapest",1 km from downtown,9.2,Wonderful,166,,Location 9.6,FALSE,
+87,Kotor,166,Splendid Conference & Spa Resort,Budva,17.7 km from Kotor,9.1,Wonderful,163,,,TRUE,
+88,Bratislava,167,"Grand Hotel River Park, a Luxury Collection Hotel, Bratislava","Stare Mesto, Bratislava",1.4 km from downtown,9,Wonderful,160,7,,FALSE,
+89,London,168,Hotel Real Palacio,"Avenidas Novas, Lisbon",2.3 km from downtown,8.1,Very Good,164,,,TRUE,
+90,Vilnius,168,NARUTIS Hotel - Small Luxury Hotels of The World,"Vilnius Old Town, Vilnius",0.7 km from downtown,9,Wonderful,168,,Location 9.8,FALSE,
+91,Lisbon,168,Hotel Real Palacio,"Avenidas Novas, Lisbon",2.3 km from downtown,8.1,Very Good,164,,,TRUE,
+92,Prague,168,Radisson Blu Hotel Prague,"Prague 2, Prague",1.1 km from downtown,8.7,Excellent,164,4,,FALSE,
+93,Kotor,168,Boutique Hotel & Spa Casa del Mare - Mediterraneo,Herceg-Novi,9.1 km from Kotor,9.5,Exceptional,165,,,TRUE,Only 2 rooms left at this price on our site
+94,Vienna,169,"Andaz Vienna Am Belvedere, By Hyatt","10. Favoriten, Vienna",2.7 km from downtown,9,Wonderful,169,,,FALSE,Only 2 rooms left at this price on our site
+95,Kotor,170,Hyatt Regency Kotor Bay Resort,Kotor,5.4 km from downtown,9,Wonderful,167,,,TRUE,
+96,Prague,171,Three Storks,"Prague 1, Prague",1.2 km from downtown,9.1,Wonderful,167,4,Location 9.7,TRUE,Only 7 rooms left at this price on our site
+97,Dubrovnik,171,Hotel Dubrovnik Palace,"Lapad, Dubrovnik",4.1 km from downtown,9.1,Wonderful,135,,,TRUE,
+98,Lisbon,172,Browns Avenue Hotel,"Santo Antonio, Lisbon",1.1 km from downtown,9,Wonderful,164,,Location 9.3,FALSE,
+99,Prague,172,Hotel General Old Town Prague,"Prague 5, Prague",2.1 km from downtown,9.1,Wonderful,172,0,,FALSE,Only 2 left at this price on our site
+100,Riga,172,A22 Hotel,"City Center, Riga",1.5 km from downtown,9.5,Exceptional,170,2,Location 9.3,FALSE,Only 2 rooms left at this price on our site
+101,London,172,Browns Avenue Hotel,"Santo Antonio, Lisbon",1.1 km from downtown,9,Wonderful,164,,Location 9.3,FALSE,
+102,Budapest,172,Budapest Marriott Hotel,"05. Belváros - Lipótváros, Budapest",0.6 km from downtown,8.8,Excellent,172,,Location 9.7,FALSE,
+103,Ljubljana,175,Grand Plaza Hotel & Congress Center,"Ljubljana City Centre, Ljubljana",0.6 km from downtown,9.1,Wonderful,160,,,TRUE,
+104,Riga,175,Lettia Aparthotel,Jūrmala,18.1 km from Riga,9.1,Wonderful,175,0,Location 9.7,FALSE,Only 2 left at this price on our site
+105,Vienna,175,Nadland Apartments B7,"02. Leopoldstadt, Vienna",1.3 km from downtown,8.2,Very Good,175,,,FALSE,Only 1 left at this price on our site
+106,Lisbon,177,Áurea Museum by Eurostars Hotel Company,"Santa Maria Maior, Lisbon",0.9 km from downtown,8.9,Excellent,169,,Location 9.4,FALSE,
+107,Prague,177,Almanac X Alcron Prague,"Prague 1, Prague",0.9 km from downtown,9.1,Wonderful,177,0,Location 9.6,FALSE,
+108,London,177,Áurea Museum by Eurostars Hotel Company,"Santa Maria Maior, Lisbon",0.9 km from downtown,8.9,Excellent,169,,Location 9.4,FALSE,
+109,Dubrovnik,179,Rixos Premium Dubrovnik,"Lapad, Dubrovnik",1.6 km from downtown,9.2,Wonderful,175,,,TRUE,
+110,Budapest,179,Corinthia Budapest,"07. Erzsébetváros, Budapest",1 km from downtown,8.8,Excellent,179,,,FALSE,
+111,Prague,180,COSMOPOLITAN Hotel Prague,"Prague 1, Prague",0.9 km from downtown,9,Wonderful,164,16,Location 9.4,FALSE,
+112,Warsaw,182,Hotel Bellotto,"Sródmiescie, Warsaw",1.8 km from downtown,9.2,Wonderful,182,0,Location 9.8,FALSE,Only 3 rooms left at this price on our site
+113,Vienna,182,Melia Vienna,"22. Donaustadt, Vienna",3.9 km from downtown,8.2,Very Good,182,,,FALSE,
+114,Lisbon,182,Corinthia Lisbon,"Campolide, Lisbon",3.6 km from downtown,9,Wonderful,174,,,FALSE,
+115,London,182,Corinthia Lisbon,"Campolide, Lisbon",3.6 km from downtown,9,Wonderful,174,,,FALSE,
+116,Vienna,183,"InterContinental Wien, an IHG Hotel","03. Landstraße, Vienna",0.8 km from downtown,8.1,Very Good,183,,,FALSE,
+117,Rome,183,The H'All Tailor Suite Roma,"Villa Borghese Parioli, Rome",2.1 km from downtown,7.7,Good,166,17,,TRUE,
+118,Budapest,184,"Dorothea Hotel, Budapest, Autograph Collection","05. Belváros - Lipótváros, Budapest",500 m from downtown,9.1,Wonderful,184,,Location 9.8,FALSE,
+119,Prague,185,Falkensteiner Boutique Hotel Prague,"Prague 1, Prague",0.9 km from downtown,9,Wonderful,181,4,Location 9.4,FALSE,
+120,Amsterdam,186,Hilton Amsterdam,"Oud Zuid, Amsterdam",2.8 km from downtown,7.9,Good,165,"1 night, 2 adults",,FALSE,
+121,Budapest,188,"Kimpton BEM Budapest, an IHG Hotel","02. Rózsadomb, Budapest",2.2 km from downtown,9.8,Exceptional,188,,Location 9.3,FALSE,
+122,Warsaw,188,"Hotel Bristol, A Luxury Collection Hotel, Warsaw","Sródmiescie, Warsaw",1.5 km from downtown,9.2,Wonderful,174,14,Location 9.8,FALSE,Only 5 rooms left at this price on our site
+123,Riga,191,Dome Hotel,"City Center, Riga",150 m from downtown,9.3,Wonderful,189,2,Location 9.8,TRUE,Only 1 room left at this price on our site
+124,Switzerland,191,Royal Plaza Montreux,"Montreux City Centre, Montreux",,8,Very Good,191,,,FALSE,
+125,Switzerland,192,Giardino Violetta,Lugano,,9.3,Wonderful,192,,,FALSE,
+126,Amsterdam,197,Pestana Amsterdam Riverside,"De Pijp, Amsterdam",2.4 km from downtown,8.4,Very Good,174,"1 night, 2 adults",,FALSE,
+127,London,199,Sofitel Lisbon Liberdade,"Santo Antonio, Lisbon",0.7 km from downtown,8.5,Very Good,191,,Location 9.6,FALSE,
+128,Lisbon,199,Sofitel Lisbon Liberdade,"Santo Antonio, Lisbon",0.7 km from downtown,8.5,Very Good,191,,Location 9.6,FALSE,
+129,Prague,199,Prague Marriott Hotel,"Prague 1, Prague",0.8 km from downtown,8.6,Excellent,174,25,Location 9.4,FALSE,
+130,Lisbon,200,PortoBay Liberdade,"Santo Antonio, Lisbon",1.3 km from downtown,9,Wonderful,192,,Location 9.4,FALSE,
+131,London,200,PortoBay Liberdade,"Santo Antonio, Lisbon",1.3 km from downtown,9,Wonderful,192,,Location 9.4,FALSE,
+132,Budapest,200,"Verno House Budapest, Vignette Collection, an IHG Hotel","05. Belváros - Lipótváros, Budapest",0.7 km from downtown,9.4,Wonderful,200,,Location 9.8,FALSE,Only 1 room left at this price on our site
+133,Budapest,201,Hotel Clark Budapest - Adults Only,"01. Budavár, Budapest",1.2 km from downtown,9.3,Wonderful,201,,Location 9.6,FALSE,
+134,London,202,EPIC SANA Marquês Hotel,"Santo Antonio, Lisbon",1.7 km from downtown,9.2,Wonderful,194,,,FALSE,
+135,Lisbon,202,EPIC SANA Marquês Hotel,"Santo Antonio, Lisbon",1.7 km from downtown,9.2,Wonderful,194,,,FALSE,
+136,Dubrovnik,203,The Pucic Palace,"Old Town, Dubrovnik",100 m from downtown,8.8,Excellent,165,,,TRUE,
+137,Bratislava,203,KLINGER Downtown Central City High Floor,"Ruzinov, Bratislava",1.9 km from downtown,9.3,Wonderful,197,6,Location 9.4,FALSE,
+138,Budapest,205,Mystery Hotel Budapest,"06. Terézváros, Budapest",1.6 km from downtown,9.1,Wonderful,205,,,FALSE,
+139,Warsaw,205,"Hotel Verte, Warsaw, Autograph Collection","Sródmiescie, Warsaw",2 km from downtown,9.3,Wonderful,205,0,Location 9.8,FALSE,
+140,Budapest,208,Kozmo Hotel Suites & Spa - Small Luxury Hotels of the World,"08. Józsefváros, Budapest",1.6 km from downtown,9.4,Wonderful,208,,,FALSE,Only 7 rooms left at this price on our site
+141,Lisbon,208,Iberostar Selection Lisboa,"Santo Antonio, Lisbon",1.6 km from downtown,8.4,Very Good,188,,,FALSE,
+142,London,208,Iberostar Selection Lisboa,"Santo Antonio, Lisbon",1.6 km from downtown,8.4,Very Good,188,,,FALSE,
+143,Oslo,209,Losby Gods Manor,Losby,13.9 km from Oslo,8.9,Excellent,209,,,TRUE,
+144,Bratislava,210,Eurovea Apartments,Bratislava,1.1 km from downtown,9.2,Wonderful,203,7,Location 9.6,FALSE,Only 1 left at this price on our site
+145,Warsaw,211,Hotel Warszawa,"Sródmiescie, Warsaw",0.7 km from downtown,9,Wonderful,211,0,Location 9.6,FALSE,
+146,Kotor,211,Porto Palace,Tivat,6.6 km from Kotor,9.7,Exceptional,208,,,TRUE,Only 4 left at this price on our site
+147,Copenhagen,212,Copenhagen Admiral Hotel,"Copenhagen Center, Copenhagen",1 km from downtown,8.6,Excellent,212,"1 night, 2 adults",Location 9.6,FALSE,
+148,Switzerland,213,Renaissance Zurich Tower Hotel,"Escher Wyss, Zurich",,8,Very Good,213,,,FALSE,
+149,London,215,Sheraton Lisboa Hotel & Spa,"Avenidas Novas, Lisbon",2.1 km from downtown,8.5,Very Good,207,,,FALSE,Only 5 rooms left at this price on our site
+150,Lisbon,215,Sheraton Lisboa Hotel & Spa,"Avenidas Novas, Lisbon",2.1 km from downtown,8.5,Very Good,207,,,FALSE,Only 5 rooms left at this price on our site
+151,Riga,216,Baltic Beach Hotel & SPA,Jūrmala,18.9 km from Riga,8.8,Excellent,216,0,Location 9.6,TRUE,
+152,London,217,"InterContinental Lisbon, an IHG Hotel","Avenidas Novas, Lisbon",2 km from downtown,8.7,Excellent,209,,,FALSE,Only 6 rooms left at this price on our site
+153,Lisbon,217,"InterContinental Lisbon, an IHG Hotel","Avenidas Novas, Lisbon",2 km from downtown,8.7,Excellent,209,,,FALSE,Only 6 rooms left at this price on our site
+154,London,218,Hyatt Regency Lisbon,"Alcântara, Lisbon",4.3 km from downtown,8.5,Very Good,189,,,FALSE,
+155,Kotor,218,Maestral Resort & Casino,Sveti Stefan,20.2 km from Kotor,9.3,Wonderful,215,,,TRUE,
+156,Lisbon,218,Hyatt Regency Lisbon,"Alcântara, Lisbon",4.3 km from downtown,8.5,Very Good,189,,,FALSE,
+157,Oslo,219,Hotel Bristol,"Oslo City Centre, Oslo",200 m from downtown,9,Wonderful,219,,,TRUE,
+158,Lisbon,220,Pestana Palace Lisboa Hotel & National Monument - The Leading Hotels of the World,"Alcântara, Lisbon",4.3 km from downtown,8.9,Excellent,200,,,TRUE,
+159,Oslo,220,Grand Hotel Oslo,"Oslo City Centre, Oslo",50 m from downtown,8.1,Very Good,220,,,FALSE,
+160,London,220,Pestana Palace Lisboa Hotel & National Monument - The Leading Hotels of the World,"Alcântara, Lisbon",4.3 km from downtown,8.9,Excellent,200,,,TRUE,
+161,Rome,220,Hotel Caravita,"Pantheon, Rome",400 m from downtown,8.8,Excellent,200,20,Location 9.7,FALSE,
+162,Bratislava,222,SKY PARK Central City Downtown,"Stare Mesto, Bratislava",1.3 km from downtown,9,Wonderful,215,7,Location 9.7,FALSE,
+163,Copenhagen,222,"Radisson Collection Royal Hotel, Copenhagen","Copenhagen Center, Copenhagen",1.1 km from downtown,8.6,Excellent,222,"1 night, 2 adults",Location 9.6,FALSE,
+164,Amsterdam,224,The Diamond Amsterdam,"Amsterdam City Center, Amsterdam",1.2 km from downtown,9.1,Wonderful,200,"1 night, 2 adults",Location 9.9,FALSE,
+165,Budapest,224,Kempinski Hotel Corvinus Budapest,"05. Belváros - Lipótváros, Budapest",250 m from downtown,9.1,Wonderful,224,,Location 9.8,FALSE,Only 5 rooms left at this price on our site
+166,Lisbon,227,EPIC SANA Lisboa Hotel,"Santo Antonio, Lisbon",2 km from downtown,9.3,Wonderful,206,,,FALSE,
+167,London,227,EPIC SANA Lisboa Hotel,"Santo Antonio, Lisbon",2 km from downtown,9.3,Wonderful,206,,,FALSE,
+168,Riga,229,Royal SPA & Hotel Resort,"City Center, Riga",2 km from downtown,8.5,Very Good,227,2,,TRUE,Only 5 rooms left at this price on our site
+169,Lisbon,229,138 Liberdade Hotel,"Santo Antonio, Lisbon",0.7 km from downtown,9,Wonderful,229,,Location 9.7,TRUE,
+170,London,229,138 Liberdade Hotel,"Santo Antonio, Lisbon",0.7 km from downtown,9,Wonderful,229,,Location 9.7,TRUE,
+171,Vienna,230,SO/ Vienna,"02. Leopoldstadt, Vienna",0.6 km from downtown,8.9,Excellent,230,,Location 9.6,FALSE,Only 7 rooms left at this price on our site
+172,Vilnius,230,"Hotel Pacai, Vilnius, a Member of Design Hotels","Vilnius Old Town, Vilnius",0.9 km from downtown,9.5,Exceptional,226,,Location 9.9,FALSE,
+173,Lisbon,234,Altis Grand Hotel,"Santo Antonio, Lisbon",1.2 km from downtown,8.6,Excellent,213,,,FALSE,
+174,London,234,Altis Grand Hotel,"Santo Antonio, Lisbon",1.2 km from downtown,8.6,Excellent,213,,,FALSE,
+175,Copenhagen,234,Copenhagen Marriott Hotel,"Copenhagen Center, Copenhagen",1.2 km from downtown,8,Very Good,234,"1 night, 2 adults",,FALSE,
+176,Vienna,235,Steigenberger Hotel Herrenhof,"01. Innere Stadt, Vienna",0.6 km from downtown,8.8,Excellent,235,,Location 9.8,FALSE,
+177,Kotor,237,The Chedi Luštica Bay,Tivat,9.8 km from Kotor,9.4,Wonderful,214,,,TRUE,
+178,Lisbon,237,Martinhal Lisbon Oriente,"Parque das Nacoes, Lisbon",6.4 km from downtown,9.5,Exceptional,229,,,FALSE,
+179,London,237,Martinhal Lisbon Oriente,"Parque das Nacoes, Lisbon",6.4 km from downtown,9.5,Exceptional,229,,,FALSE,
+180,Switzerland,240,Otium-Oberhofen,Oberhofen am Thunersee,,8.9,Excellent,240,,,FALSE,Only 1 left at this price on our site
+181,Budapest,242,"Párisi Udvar Hotel Budapest, part of Hyatt","05. Belváros - Lipótváros, Budapest",450 m from downtown,9.2,Wonderful,242,,Location 9.6,FALSE,
+182,Vienna,246,Le Méridien Vienna,"01. Innere Stadt, Vienna",0.8 km from downtown,8.4,Very Good,240,,Location 9.5,FALSE,Only 5 rooms left at this price on our site
+183,Lisbon,247,MYRIAD by SANA Hotels,"Parque das Nacoes, Lisbon",7.9 km from downtown,9.2,Wonderful,225,,Location 9.4,FALSE,
+184,London,247,MYRIAD by SANA Hotels,"Parque das Nacoes, Lisbon",7.9 km from downtown,9.2,Wonderful,225,,Location 9.4,FALSE,
+185,Paris,248,Hotel Square,"16th arr., Paris",5.4 km from downtown,8.1,Very Good,225,23,,FALSE,Only 2 rooms left at this price on our site
+186,Copenhagen,251,NH Collection Copenhagen,"Christianshavn, Copenhagen",0.8 km from downtown,9,Wonderful,251,"1 night, 2 adults",Location 9.3,FALSE,
+187,Copenhagen,253,Villa Copenhagen,"Vesterbro, Copenhagen",1.1 km from downtown,8.7,Excellent,253,"1 night, 2 adults",,FALSE,
+188,Copenhagen,254,71 Nyhavn Hotel,"Copenhagen Center, Copenhagen",0.9 km from downtown,8.8,Excellent,254,"1 night, 2 adults",Location 9.8,FALSE,
+189,Amsterdam,255,Hyatt Regency Amsterdam,"Amsterdam City Center, Amsterdam",1.8 km from downtown,8.4,Very Good,229,"1 night, 2 adults",,FALSE,
+190,Amsterdam,256,Amsterdam Marriott Hotel,"Oud West, Amsterdam",1.5 km from downtown,8,Very Good,230,"1 night, 2 adults",Location 9.3,FALSE,Only 5 rooms left at this price on our site
+191,Amsterdam,257,"Kimpton De Witt Amsterdam, an IHG Hotel","Amsterdam City Center, Amsterdam",0.5 km from downtown,8.6,Excellent,228,"1 night, 2 adults",Location 9.4,FALSE,
+192,Lisbon,262,"Altis Belem Hotel & Spa, a Member of Design Hotels","Belem, Lisbon",6.6 km from downtown,8.9,Excellent,254,,Location 9.3,TRUE,
+193,London,262,"Altis Belem Hotel & Spa, a Member of Design Hotels","Belem, Lisbon",6.6 km from downtown,8.9,Excellent,254,,Location 9.3,TRUE,
+194,Switzerland,262,Renaissance Lucerne Hotel,"Old Town, Lucerne",,8.1,Very Good,262,,,FALSE,
+195,Switzerland,262,"The Hotel Lucerne, Autograph Collection","Old Town, Lucerne",,7.9,Good,262,,,FALSE,Only 5 left at this price on our site
+196,Oslo,262,Sommerro,"Frogner, Oslo",1.1 km from downtown,8.9,Excellent,262,,,TRUE,
+197,Lisbon,263,Palácio Ludovice Wine Experience Hotel,"Misericordia, Lisbon",400 m from downtown,9.3,Wonderful,255,,Location 9.7,FALSE,
+198,London,263,Palácio Ludovice Wine Experience Hotel,"Misericordia, Lisbon",400 m from downtown,9.3,Wonderful,255,,Location 9.7,FALSE,
+199,Vienna,265,Vienna Marriott Hotel,"01. Innere Stadt, Vienna",0.5 km from downtown,8.5,Very Good,265,,Location 9.4,FALSE,Only 5 rooms left at this price on our site
+200,Kotor,269,Regent Porto Montenegro & Residences,Tivat,6.4 km from Kotor,9.4,Wonderful,243,,,TRUE,Only 6 rooms left at this price on our site
+201,Budapest,271,W Budapest,"06. Terézváros, Budapest",0.6 km from downtown,9.3,Wonderful,271,,Location 9.8,FALSE,Only 5 rooms left at this price on our site
+202,Rome,275,Grand Hotel Palace Rome,"Via Veneto, Rome",1.4 km from downtown,8.3,Very Good,254,21,,FALSE,
+203,Lisbon,276,Santiago de Alfama - Boutique Hotel,"Santa Maria Maior, Lisbon",0.8 km from downtown,9.4,Wonderful,268,,Location 9.7,FALSE,Only 1 room left at this price on our site
+204,Lisbon,276,Palácio do Governador - Lisbon Hotel & Spa,"Belem, Lisbon",6.9 km from downtown,9.2,Wonderful,268,,Location 9.4,TRUE,
+205,London,276,Palácio do Governador - Lisbon Hotel & Spa,"Belem, Lisbon",6.9 km from downtown,9.2,Wonderful,268,,Location 9.4,TRUE,
+206,London,276,Santiago de Alfama - Boutique Hotel,"Santa Maria Maior, Lisbon",0.8 km from downtown,9.4,Wonderful,268,,Location 9.7,FALSE,Only 1 room left at this price on our site
+207,Budapest,277,"Matild Palace, a Luxury Collection Hotel","05. Belváros - Lipótváros, Budapest",0.6 km from downtown,9.5,Exceptional,277,,Location 9.8,FALSE,
+208,Budapest,280,Anantara New York Palace Budapest - A Leading Hotel of the World,"07. Erzsébetváros, Budapest",1.1 km from downtown,9.3,Wonderful,280,,,FALSE,
+209,London,280,The Vintage Hotel & Spa Lisbon,"Santo Antonio, Lisbon",1.2 km from downtown,9,Wonderful,272,,,FALSE,
+210,Lisbon,280,The Vintage Hotel & Spa Lisbon,"Santo Antonio, Lisbon",1.2 km from downtown,9,Wonderful,272,,,FALSE,
+211,Amsterdam,281,Grand Hotel Amrâth Amsterdam,"Amsterdam City Center, Amsterdam",0.8 km from downtown,7.8,Good,273,"1 night, 2 adults",,FALSE,
+212,Kotor,281,Merit Starlit Hotel & Residences,Budva,17.1 km from Kotor,9.7,Exceptional,278,,,TRUE,
+213,London,282,Altis Avenida Hotel,"Santa Maria Maior, Lisbon",200 m from downtown,9.2,Wonderful,278,,Location 9.8,FALSE,
+214,Kotor,282,Lazure Hotel & Marina,Herceg-Novi,17.7 km from Kotor,9.6,Exceptional,279,,,TRUE,Only 1 room left at this price on our site
+215,Lisbon,282,Altis Avenida Hotel,"Santa Maria Maior, Lisbon",200 m from downtown,9.2,Wonderful,278,,Location 9.8,FALSE,
+216,Copenhagen,285,Boutique Hotel Herman K,"Copenhagen Center, Copenhagen",200 m from downtown,8.8,Excellent,285,"1 night, 2 adults",Location 9.8,FALSE,
+217,London,288,The One Palácio da Anunciada,"Arroios, Lisbon",400 m from downtown,8.9,Excellent,280,,Location 9.6,FALSE,Only 1 room left at this price on our site
+218,Ljubljana,288,JUNGLE Wellness Apartment,Trzin,10.7 km from Ljubljana,9.9,Exceptional,288,,,FALSE,
+219,Lisbon,288,The One Palácio da Anunciada,"Arroios, Lisbon",400 m from downtown,8.9,Excellent,280,,Location 9.6,FALSE,Only 1 room left at this price on our site
+220,Switzerland,291,Beau Rivage Hotel,Neuchâtel,,8.7,Excellent,291,,,FALSE,
+221,Paris,292,Toureifelchampselysee,"16th arr., Paris",5.1 km from downtown,8.1,Very Good,230,62,Location 9.3,FALSE,Only 1 left at this price on our site
+222,Rome,292,"Palazzo Montemartini Rome, A Radisson Collection Hotel","Central Station, Rome",1.7 km from downtown,8.2,Very Good,271,21,,FALSE,
+223,Rome,294,NH Collection Palazzo Cinquecento,"Central Station, Rome",1.7 km from downtown,8.7,Excellent,273,21,,FALSE,
+224,Rome,294,Monastero dei Santi,"Trionfale, Rome",4 km from downtown,9.4,Wonderful,279,15,,FALSE,
+225,Vienna,295,The Guesthouse Vienna,"01. Innere Stadt, Vienna",0.5 km from downtown,9.2,Wonderful,295,,Location 9.9,FALSE,Only 5 rooms left at this price on our site
+226,Lisbon,295,Montebelo Vista Alegre Lisboa Chiado Hotel,"Misericordia, Lisbon",0.6 km from downtown,9.2,Wonderful,287,,Location 9.7,TRUE,Only 3 rooms left at this price on our site
+227,London,295,Montebelo Vista Alegre Lisboa Chiado Hotel,"Misericordia, Lisbon",0.6 km from downtown,9.2,Wonderful,287,,Location 9.7,TRUE,Only 3 rooms left at this price on our site
+228,Riga,295,Grand Hotel Kempinski Riga,"City Center, Riga",400 m from downtown,9.4,Wonderful,293,2,Location 9.8,FALSE,
+229,Amsterdam,296,"The College Hotel Amsterdam, Autograph Collection","Oud Zuid, Amsterdam",2.3 km from downtown,8.2,Very Good,266,"1 night, 2 adults",,FALSE,Only 5 rooms left at this price on our site
+230,Lisbon,297,"Memmo Príncipe Real, a Member of Design Hotels","Santo Antonio, Lisbon",0.7 km from downtown,9,Wonderful,289,,Location 9.6,FALSE,Only 3 rooms left at this price on our site
+231,London,297,Art Legacy Hotel Baixa-Chiado,"Santa Maria Maior, Lisbon",300 m from downtown,9.4,Wonderful,289,,Location 9.9,TRUE,Only 7 rooms left at this price on our site
+232,London,297,"Memmo Príncipe Real, a Member of Design Hotels","Santo Antonio, Lisbon",0.7 km from downtown,9,Wonderful,289,,Location 9.6,FALSE,Only 3 rooms left at this price on our site
+233,Lisbon,297,Art Legacy Hotel Baixa-Chiado,"Santa Maria Maior, Lisbon",300 m from downtown,9.4,Wonderful,289,,Location 9.9,TRUE,Only 7 rooms left at this price on our site
+234,Ljubljana,299,Zlata Ladjica Boutique Hotel,"Ljubljana City Centre, Ljubljana",350 m from downtown,9.8,Exceptional,293,,,TRUE,
+235,Vienna,300,Hotel Topazz & Lamée,"01. Innere Stadt, Vienna",200 m from downtown,8.5,Very Good,300,,Location 9.7,FALSE,Only 6 rooms left at this price on our site
+236,Venice,300,NH Collection Grand Hotel Palazzo Dei Dogi,"Cannaregio, Venice",1.5 km from downtown,8.5,Very Good,300,,,FALSE,
+237,Amsterdam,301,NH Collection Amsterdam Barbizon Palace,"Amsterdam City Center, Amsterdam",0.6 km from downtown,8.3,Very Good,270,"1 night, 2 adults",Location 9.4,FALSE,
+238,Amsterdam,304,Pillows Grand Boutique Hotel Maurits at the Park - Small Luxury Hotels,"Oost, Amsterdam",2.2 km from downtown,9.4,Wonderful,273,"1 night, 2 adults",,FALSE,Only 5 rooms left at this price on our site
+239,Vienna,308,rooms by wolfensson,"01. Innere Stadt, Vienna",350 m from downtown,9.7,Exceptional,308,,Location 10,FALSE,Only 1 left at this price on our site
+240,Lisbon,309,Raw Culture Art & Lofts Bairro Alto,"Misericordia, Lisbon",400 m from downtown,9.5,Exceptional,301,,Location 9.5,TRUE,Only 2 left at this price on our site
+241,London,309,Raw Culture Art & Lofts Bairro Alto,"Misericordia, Lisbon",400 m from downtown,9.5,Exceptional,301,,Location 9.5,TRUE,Only 2 left at this price on our site
+242,London,312,Sublime Lisboa,"Avenidas Novas, Lisbon",2 km from downtown,9.3,Wonderful,304,,,TRUE,Only 3 rooms left at this price on our site
+243,Lisbon,312,Sublime Lisboa,"Avenidas Novas, Lisbon",2 km from downtown,9.3,Wonderful,304,,,TRUE,Only 3 rooms left at this price on our site
+244,Lisbon,314,Pousada de Lisboa - Small Luxury Hotels Of The World,"Santa Maria Maior, Lisbon",0.7 km from downtown,9,Wonderful,306,,Location 9.8,FALSE,Only 6 rooms left at this price on our site
+245,London,314,Pousada de Lisboa - Small Luxury Hotels Of The World,"Santa Maria Maior, Lisbon",0.7 km from downtown,9,Wonderful,306,,Location 9.8,FALSE,Only 6 rooms left at this price on our site
+246,Amsterdam,317,Hotel Okura Amsterdam – The Leading Hotels of the World,"De Pijp, Amsterdam",2.7 km from downtown,8.8,Excellent,284,"1 night, 2 adults",,FALSE,
+247,Switzerland,318,Ferienwohnung Isabella,Ascona,,9,Wonderful,318,,,FALSE,Only 1 left at this price on our site
+248,Paris,318,Hôtel Paris Bastille Boutet - MGallery,"11th arr., Paris",2.4 km from downtown,8.1,Very Good,295,23,,FALSE,Only 1 left at this price on our site
+249,London,321,Hotel Avenida Palace,"Santa Maria Maior, Lisbon",200 m from downtown,9.4,Wonderful,313,,Location 9.9,TRUE,Only 2 rooms left at this price on our site
+250,Lisbon,321,Hotel Avenida Palace,"Santa Maria Maior, Lisbon",200 m from downtown,9.4,Wonderful,313,,Location 9.9,TRUE,Only 2 rooms left at this price on our site
+251,Paris,321,Maison Albar - Le Diamond,"8th arr., Paris",2.9 km from downtown,8.7,Excellent,298,23,,FALSE,
+252,Switzerland,323,Grand Hotel National Luzern,"Old Town, Lucerne",,8.6,Excellent,323,,,FALSE,Only 5 rooms left at this price on our site
+253,Budapest,324,"The Ritz-Carlton, Budapest","05. Belváros - Lipótváros, Budapest",200 m from downtown,9.2,Wonderful,324,,Location 9.8,FALSE,Only 5 rooms left at this price on our site
+254,Rome,327,"Rome Cavalieri, A Waldorf Astoria Hotel","Trionfale, Rome",4 km from downtown,8.9,Excellent,306,21,,FALSE,
+255,Vienna,328,DO&CO Hotel Vienna,"01. Innere Stadt, Vienna",150 m from downtown,8.4,Very Good,328,,Location 9.8,FALSE,Only 5 rooms left at this price on our site
+256,Venice,329,Villa Franceschi Hotel & Resort,Mira,15.7 km from Venice,9.3,Wonderful,329,,,TRUE,Only 1 room left at this price on our site
+257,Switzerland,329,La Colombe Boutique Hotel,Zug,,8.6,Excellent,329,,,FALSE,Only 5 left at this price on our site
+258,Oslo,336,The Thief,"Frogner, Oslo",1.2 km from downtown,8.8,Excellent,336,,,TRUE,
+259,Rome,336,Parco dei Principi Grand Hotel & SPA,"Villa Borghese Parioli, Rome",2.5 km from downtown,8.6,Excellent,315,21,,FALSE,
+260,Paris,338,Large studio eiffel tower lacoste,"16th arr., Paris",6.3 km from downtown,9,Wonderful,205,133,Location 9.8,FALSE,
+261,Switzerland,338,The Onya Resort & Spa,Bellwald,,9,Wonderful,338,,,TRUE,Only 2 rooms left at this price on our site
+262,Vienna,339,"Hotel Bristol, a Luxury Collection Hotel, Vienna","01. Innere Stadt, Vienna",0.7 km from downtown,9.1,Wonderful,339,,Location 9.8,FALSE,
+263,Paris,346,Escale Sur Seine,"16th arr., Paris",8.2 km from downtown,8.7,Excellent,344,2,,FALSE,Only 1 left at this price on our site
+264,Kotor,349,Oak Leaf Residences,Budva,19.8 km from Kotor,9.9,Exceptional,346,,,FALSE,Only 4 left at this price on our site
+265,Kotor,349,Dukley Hotel & Resort,Budva,17.4 km from Kotor,9.3,Wonderful,346,,,TRUE,Only 4 rooms left at this price on our site
+266,Switzerland,350,Résidence Les Sources des Alpes,Leukerbad,,8.8,Excellent,350,,,TRUE,Only 1 left at this price on our site
+267,Rome,351,Hotel Via Veneto,"Via Veneto, Rome",1.5 km from downtown,8.1,Very Good,330,21,,FALSE,Only 2 rooms left at this price on our site
+268,Paris,353,Maison Albar- Le Champs-Elysées,"8th arr., Paris",4.4 km from downtown,8.2,Very Good,329,24,Location 9.4,FALSE,
+269,Venice,354,Excess Venice Boutique Hotel & Private Spa - Adults Only,"Dorsoduro, Venice",1.4 km from downtown,8.8,Excellent,354,,,FALSE,Only 1 room left at this price on our site
+270,London,356,Corpo Santo Lisbon Historical Hotel,"Misericordia, Lisbon",0.8 km from downtown,9.4,Wonderful,348,,Location 9.6,TRUE,Only 3 rooms left at this price on our site
+271,Lisbon,356,Corpo Santo Lisbon Historical Hotel,"Misericordia, Lisbon",0.8 km from downtown,9.4,Wonderful,348,,Location 9.6,TRUE,Only 3 rooms left at this price on our site
+272,Switzerland,357,Hotel Palafitte,Neuchâtel,,9,Wonderful,357,,,FALSE,
+273,Switzerland,357,Lausanne Palace,"Lausanne Center, Lausanne",,9.1,Wonderful,357,,,FALSE,
+274,Switzerland,357,FIVE Zurich - Luxury City Resort,"Wiedikon, Zurich",,8.7,Excellent,357,,,FALSE,
+275,Vienna,360,The Leo Grand,"01. Innere Stadt, Vienna",200 m from downtown,9.3,Wonderful,360,,Location 9.9,FALSE,Only 5 rooms left at this price on our site
+276,Paris,363,Hôtel Le Ballu,"9th arr., Paris",3.3 km from downtown,9.2,Wonderful,340,23,Location 9.3,FALSE,Only 7 rooms left at this price on our site
+277,Kotor,372,One&Only Portonovi,Herceg-Novi,14.2 km from Kotor,9.5,Exceptional,370,,,TRUE,
+278,London,372,Tivoli Avenida Liberdade Lisboa – A Leading Hotel of the World,"Santo Antonio, Lisbon",1.1 km from downtown,8.6,Excellent,343,,Location 9.6,FALSE,
+279,Vienna,372,The Amauris Vienna - Relais & Châteaux,"01. Innere Stadt, Vienna",0.8 km from downtown,9.5,Exceptional,372,,Location 9.8,FALSE,
+280,Lisbon,372,Tivoli Avenida Liberdade Lisboa – A Leading Hotel of the World,"Santo Antonio, Lisbon",1.1 km from downtown,8.6,Excellent,343,,Location 9.6,FALSE,
+281,Kotor,373,Portonovi Resort,Herceg-Novi,14 km from Kotor,9.3,Wonderful,370,,,TRUE,
+282,Switzerland,374,Zurich Marriott Hotel,"Unterstrass, Zurich",,8,Very Good,374,,,FALSE,Only 5 rooms left at this price on our site
+283,Paris,374,Hotel de Nell,"9th arr., Paris",1.9 km from downtown,8.4,Very Good,351,23,,FALSE,Only 2 rooms left at this price on our site
+284,Vienna,376,Grand Hotel Wien,"01. Innere Stadt, Vienna",0.7 km from downtown,8.8,Excellent,376,,Location 9.7,FALSE,
+285,Switzerland,376,Grand Hotel du Lac - Relais & Châteaux,Vevey,,9,Wonderful,376,,,FALSE,
+286,Vienna,377,Anantara Palais Hansen Vienna,"01. Innere Stadt, Vienna",0.9 km from downtown,8.5,Very Good,367,,,FALSE,
+287,Switzerland,379,Hotel Splendide Royal,"Lugano City-Centre, Lugano",,8.8,Excellent,379,,,FALSE,
+288,Switzerland,380,Royal Savoy Hotel & Spa,Lausanne,,9.2,Wonderful,380,,,FALSE,
+289,Amsterdam,383,Tivoli Doelen Amsterdam Hotel,"Amsterdam City Center, Amsterdam",0.6 km from downtown,8.6,Excellent,344,"1 night, 2 adults",Location 9.6,FALSE,Only 1 room left at this price on our site
+290,Vienna,383,Hotel Sans Souci Wien,"07. Neubau, Vienna",1.3 km from downtown,9.4,Wonderful,383,,Location 9.6,FALSE,Only 6 rooms left at this price on our site
+291,Rome,385,"Hotel Indigo Rome - St. George, an IHG Hotel","Navona, Rome",1.4 km from downtown,8.9,Excellent,364,21,Location 9.4,FALSE,
+292,Lisbon,385,Olissippo Lapa Palace – The Leading Hotels of the World,"Estrela, Lisbon",2.3 km from downtown,9.4,Wonderful,385,,,TRUE,
+293,London,385,Olissippo Lapa Palace – The Leading Hotels of the World,"Estrela, Lisbon",2.3 km from downtown,9.4,Wonderful,385,,,TRUE,
+294,Oslo,386,Hotel Continental,"Oslo City Centre, Oslo",300 m from downtown,8.9,Excellent,386,,,TRUE,
+295,Amsterdam,387,W Amsterdam,"Amsterdam City Center, Amsterdam",200 m from downtown,7.5,Good,347,"1 night, 2 adults",,FALSE,Only 5 rooms left at this price on our site
+296,Switzerland,387,Platinum - Luxury Suite,Massagno,,8.4,Very Good,387,,,FALSE,
+297,Rome,389,"Radisson Collection Hotel, Roma Antica","Pantheon, Rome",300 m from downtown,9.1,Wonderful,368,21,Location 9.6,FALSE,Only 3 rooms left at this price on our site
+298,Vienna,389,"The Ritz-Carlton, Vienna","01. Innere Stadt, Vienna",0.7 km from downtown,9,Wonderful,389,,Location 9.5,FALSE,
+299,Switzerland,390,Hotel Schweizerhof Bern & Spa,"Rotes Quartier, Bern",,8.9,Excellent,390,,,FALSE,
+300,London,396,Hotel Valverde Lisboa - Relais & Chateaux,"Santo Antonio, Lisbon",0.8 km from downtown,8.8,Excellent,388,,Location 9.6,TRUE,Only 5 rooms left at this price on our site
+301,Lisbon,396,Hotel Valverde Lisboa - Relais & Chateaux,"Santo Antonio, Lisbon",0.8 km from downtown,8.8,Excellent,388,,Location 9.6,TRUE,Only 5 rooms left at this price on our site
+302,Switzerland,398,Villa Principe Leopoldo,Lugano,,9.1,Wonderful,398,,,TRUE,Only 1 left at this price on our site
+303,Paris,403,Renaissance Paris Republique Hotel & Spa,"10th arr., Paris",1.5 km from downtown,8.3,Very Good,380,23,,FALSE,Only 5 rooms left at this price on our site
+304,Paris,404,Magnifique T4 proche Proche Arc de Triomphe et Champs Elysées,"17th arr., Paris",5 km from downtown,9,Wonderful,352,52,Location 10,FALSE,
+305,Amsterdam,405,"Andaz Amsterdam, Prinsengracht, By Hyatt","Amsterdam City Center, Amsterdam",0.9 km from downtown,8.8,Excellent,363,"1 night, 2 adults",Location 9.5,FALSE,Only 7 rooms left at this price on our site
+306,Lisbon,407,The Lumiares Hotel & Spa - Small Luxury Hotels Of The World,"Misericordia, Lisbon",450 m from downtown,9.1,Wonderful,376,,Location 9.5,FALSE,
+307,London,407,The Lumiares Hotel & Spa - Small Luxury Hotels Of The World,"Misericordia, Lisbon",450 m from downtown,9.1,Wonderful,376,,Location 9.5,FALSE,
+308,Switzerland,410,Swiss Hotel Apartments - Lugano,Lugano,,9,Wonderful,410,,,FALSE,Only 5 left at this price on our site
+309,London,414,Martinhal Lisbon Chiado,"Misericordia, Lisbon",0.6 km from downtown,9.2,Wonderful,406,,Location 9.6,FALSE,Only 4 left at this price on our site
+310,Lisbon,414,Martinhal Lisbon Chiado,"Misericordia, Lisbon",0.6 km from downtown,9.2,Wonderful,406,,Location 9.6,FALSE,Only 4 left at this price on our site
+311,Lisbon,414,Bairro Alto Hotel,"Misericordia, Lisbon",0.5 km from downtown,9.2,Wonderful,406,,Location 9.7,TRUE,
+312,Rome,414,"Sina Bernini Bristol, Autograph Collection","Trevi, Rome",1.1 km from downtown,8.3,Very Good,393,21,Location 9.4,FALSE,
+313,London,414,Bairro Alto Hotel,"Misericordia, Lisbon",0.5 km from downtown,9.2,Wonderful,406,,Location 9.7,TRUE,
+314,Paris,414,La Maison Champs Elysées,"8th arr., Paris",3.3 km from downtown,7.9,Good,391,23,Location 9.3,FALSE,Only 6 rooms left at this price on our site
+315,Copenhagen,414,"Nobis Hotel Copenhagen, a Member of Design Hotels™","Copenhagen Center, Copenhagen",0.8 km from downtown,8.3,Very Good,414,"1 night, 2 adults",,FALSE,
+316,Rome,415,"Aleph Rome Hotel, Curio Collection By Hilton","Via Veneto, Rome",1.2 km from downtown,8.5,Very Good,394,21,,FALSE,
+317,Amsterdam,417,Pulitzer Amsterdam,"Amsterdam City Center, Amsterdam",0.7 km from downtown,8.8,Excellent,374,"1 night, 2 adults",Location 9.6,FALSE,
+318,Amsterdam,418,Anantara Grand Hotel Krasnapolsky Amsterdam,"Amsterdam City Center, Amsterdam",100 m from downtown,8.8,Excellent,375,"1 night, 2 adults",Location 9.7,FALSE,
+319,Rome,421,Casa Monti Roma,"Rione Monti, Rome",0.8 km from downtown,9.8,Exceptional,400,21,Location 9.8,TRUE,Only 5 rooms left at this price on our site
+320,Paris,422,Hôtel Bel Ami,"6th arr., Paris",1.4 km from downtown,8.7,Excellent,366,56,Location 9.7,FALSE,
+321,Switzerland,428,"Neues Schloss Privat Hotel Zurich, Autograph Collection","Enge, Zurich",,8.2,Very Good,428,,,FALSE,Only 6 rooms left at this price on our site
+322,Warsaw,431,Raffles Europejski Warsaw,"Sródmiescie, Warsaw",1.4 km from downtown,9.5,Exceptional,431,0,Location 9.8,FALSE,Only 7 rooms left at this price on our site
+323,Paris,432,Hôtel Pont Royal Paris,"7th arr., Paris",1.8 km from downtown,8.3,Very Good,409,23,Location 9.4,FALSE,Only 7 rooms left at this price on our site
+324,Paris,434,La Clef Tour Eiffel Paris by The Crest Collection,"16th arr., Paris",4.7 km from downtown,7.8,Good,411,23,,FALSE,
+325,Venice,434,Hotel Metropole Venezia,"Castello, Venice",0.5 km from downtown,8.7,Excellent,434,,Location 9.6,FALSE,
+326,Paris,435,"Le Metropolitan Paris Tour Eiffel, a Tribute Portfolio Hotel","16th arr., Paris",5.1 km from downtown,7.2,Good,412,23,,FALSE,Only 5 rooms left at this price on our site
+327,Kotor,436,Boutique Hotel Vissi d'Arte,Budva,16.9 km from Kotor,10,Exceptional,436,,,TRUE,Only 5 left at this price on our site
+328,Rome,437,Baglioni Hotel Regina - The Leading Hotels of the World,"Via Veneto, Rome",1.4 km from downtown,9.1,Wonderful,416,21,Location 9.4,TRUE,
+329,Paris,439,"InterContinental Paris Champs Elysées Etoile, an IHG Hotel","8th arr., Paris",4.2 km from downtown,7.8,Good,416,23,,FALSE,Only 3 rooms left at this price on our site
+330,Switzerland,439,Steigenberger Icon Grandhotel Belvédère,Davos,,8.8,Excellent,439,,,TRUE,
+331,Paris,440,Hôtel Napoleon Paris,"8th arr., Paris",4.4 km from downtown,8.6,Excellent,417,23,Location 9.6,FALSE,
+332,Paris,440,L'Hôtel du Collectionneur Paris,"8th arr., Paris",4 km from downtown,8.5,Very Good,417,23,Location 9.3,FALSE,
+333,Paris,441,Hotel Parister & Spa,"9th arr., Paris",2.1 km from downtown,8.3,Very Good,418,23,,FALSE,
+334,Paris,444,Molitor Hôtel & Spa Paris - MGallery Collection,"16th arr., Paris",7.1 km from downtown,8.5,Very Good,421,23,,FALSE,
+335,Rome,444,Bio Hotel Raphael - Relais & Châteaux,"Navona, Rome",1 km from downtown,8.5,Very Good,404,40,Location 9.7,TRUE,
+336,Switzerland,446,Hôtel de la Cigogne,"Downtown, Geneva",,8.6,Excellent,446,,,FALSE,
+337,Rome,446,"The Pantheon Iconic Rome Hotel, Autograph Collection","Pantheon, Rome",0.6 km from downtown,8.7,Excellent,387,59,Location 9.6,FALSE,Only 5 rooms left at this price on our site
+338,Amsterdam,448,Sofitel Legend The Grand Amsterdam,"Amsterdam City Center, Amsterdam",250 m from downtown,8.9,Excellent,402,"1 night, 2 adults",Location 9.5,FALSE,Only 7 rooms left at this price on our site
+339,Switzerland,449,Hôtel Des Trois Couronnes & Spa - The Leading Hotels of the World,Vevey,,9.1,Wonderful,449,,,FALSE,Only 6 rooms left at this price on our site
+340,Paris,451,Hôtel Alfred Sommier,"8th arr., Paris",2.6 km from downtown,8.4,Very Good,428,23,Location 9.4,FALSE,
+341,Paris,452,Le Damantin Hôtel & Spa,"8th arr., Paris",3.3 km from downtown,8.6,Excellent,429,23,Location 9.4,FALSE,
+342,Switzerland,453,"InterContinental Genève, an IHG Hotel","Petit-Saconnex / Servette, Geneva",,8.6,Excellent,453,,,FALSE,
+343,Switzerland,455,AlpenGold Hotel Davos,Davos,,8.7,Excellent,455,,,FALSE,
+344,Paris,455,Hotel Montalembert,"7th arr., Paris",1.7 km from downtown,8.9,Excellent,397,58,Location 9.6,FALSE,
+345,Rome,457,Hotel Splendide Royal - The Leading Hotels of the World,"Via Veneto, Rome",1.4 km from downtown,8.9,Excellent,436,21,,FALSE,Only 4 rooms left at this price on our site
+346,Switzerland,459,Le Mirador Resort & Spa,Vevey,,9.1,Wonderful,459,,,FALSE,Only 3 rooms left at this price on our site
+347,Rome,465,Corso 281 Luxury Suites,"Pantheon, Rome",150 m from downtown,8.4,Very Good,410,55,Location 9.5,TRUE,
+348,Venice,471,Ca' Bonfadini Historic Experience,"Cannaregio, Venice",1.7 km from downtown,9.1,Wonderful,471,,,TRUE,
+349,Rome,473,Harry's Bar Trevi Hotel & Restaurant,"Trevi, Rome",0.5 km from downtown,9.3,Wonderful,452,21,Location 9.7,TRUE,Only 3 rooms left at this price on our site
+350,Paris,476,Maison Albar - Le Vendome,"9th arr., Paris",2.1 km from downtown,8.7,Excellent,453,23,Location 9.3,FALSE,
+351,Paris,477,Renaissance Paris Vendome Hotel,"1st arr., Paris",1.9 km from downtown,7,Good,454,23,Location 9.3,FALSE,Only 5 rooms left at this price on our site
+352,Switzerland,478,Hotel Schweizerhof Luzern,"Old Town, Lucerne",,9.1,Wonderful,478,,,FALSE,
+353,Paris,479,Hotel Montaigne,"8th arr., Paris",3.6 km from downtown,7.6,Good,456,23,Location 9.6,FALSE,Only 3 rooms left at this price on our site
+354,Vienna,480,Vienna Stay Apartments Tabor 1020,"02. Leopoldstadt, Vienna",1.4 km from downtown,8.6,Excellent,408,,,FALSE,Only 2 left at this price on our site
+355,Switzerland,481,Hotel Alden Splügenschloss Zürich - Leonardo Limited Edition,"Enge, Zurich",,8.6,Excellent,481,,,FALSE,Only 4 left at this price on our site
+356,Vienna,483,"Hotel Imperial, a Luxury Collection Hotel, Vienna","01. Innere Stadt, Vienna",0.8 km from downtown,9.3,Wonderful,483,,Location 9.8,FALSE,Only 5 rooms left at this price on our site
+357,Paris,483,La Clef Louvre Paris by The Crest Collection,"1st arr., Paris",1.4 km from downtown,8.4,Very Good,460,23,Location 9.6,FALSE,
+358,Budapest,486,Aria Hotel Budapest by Library Hotel Collection,"05. Belváros - Lipótváros, Budapest",350 m from downtown,9.6,Exceptional,486,,Location 9.9,FALSE,Only 3 rooms left at this price on our site
+359,Paris,486,Hotel de Montesquieu,"8th arr., Paris",3.7 km from downtown,8.9,Excellent,463,23,Location 9.3,FALSE,Only 3 left at this price on our site
+360,Paris,487,Fraser Suites Le Claridge Champs-Elysées,"8th arr., Paris",3.7 km from downtown,7.9,Good,464,23,Location 9.5,FALSE,
+361,Rome,487,Grand Hotel Plaza,"Spagna, Rome",1.1 km from downtown,7.5,Good,466,21,Location 9.5,FALSE,
+362,Paris,491,Castille Paris – Starhotels Collezione,"1st arr., Paris",2.2 km from downtown,8.5,Very Good,468,23,Location 9.7,FALSE,
+363,Rome,493,Hotel Locarno,"Spagna, Rome",1.7 km from downtown,9.3,Wonderful,472,21,Location 9.7,TRUE,Only 2 rooms left at this price on our site
+364,Venice,495,Palazzina Grassi,"San Marco, Venice",0.8 km from downtown,9.2,Wonderful,495,,Location 9.3,TRUE,
+365,Paris,495,Hyatt Paris Madeleine,"8th arr., Paris",2.8 km from downtown,8.7,Excellent,472,23,,FALSE,Only 7 rooms left at this price on our site
+366,Paris,502,LUXURY FLAT WITH PRIVATE ROOFTOP - Paris 18,"18th arr., Paris",3.5 km from downtown,8,Very Good,411,91,,FALSE,Only 1 left at this price on our site
+367,Paris,502,Villa Marquis Member of Meliá Collection,"8th arr., Paris",3.6 km from downtown,8.6,Excellent,479,23,Location 9.5,FALSE,Only 7 rooms left at this price on our site
+368,Rome,503,The First Musica,"Vaticano Prati, Rome",1.5 km from downtown,9.2,Wonderful,482,21,Location 9.3,FALSE,Only 7 rooms left at this price on our site
+369,Paris,505,Le Cinq Codet,"7th arr., Paris",3.2 km from downtown,8.8,Excellent,482,23,,FALSE,
+370,Paris,507,Majestic Hotel Spa - Champs Elysées,"16th arr., Paris",4.5 km from downtown,8.2,Very Good,484,23,,FALSE,Only 7 rooms left at this price on our site
+371,Paris,509,Sofitel Paris Baltimore Tour Eiffel,"16th arr., Paris",4.7 km from downtown,8.1,Very Good,486,23,,FALSE,
+372,Paris,510,La Clef Champs-Élysées Paris by The Crest Collection,"8th arr., Paris",4.1 km from downtown,8.3,Very Good,487,23,Location 9.4,FALSE,
+373,Paris,512,Sofitel Paris Arc De Triomphe,"8th arr., Paris",4.2 km from downtown,8.6,Excellent,489,23,,FALSE,Only 7 rooms left at this price on our site
+374,Paris,512,Sofitel Le Scribe Paris Opera,"9th arr., Paris",2.2 km from downtown,8.5,Very Good,489,23,Location 9.5,FALSE,Only 7 rooms left at this price on our site
+375,London,514,Torel Palace Lisbon,"Arroios, Lisbon",450 m from downtown,9.1,Wonderful,477,,Location 9.3,TRUE,
+376,Lisbon,514,Torel Palace Lisbon,"Arroios, Lisbon",450 m from downtown,9.1,Wonderful,477,,Location 9.3,TRUE,
+377,Riga,514,TB Palace Hotel & SPA,Jūrmala,18.6 km from Riga,9.7,Exceptional,514,0,Location 9.9,TRUE,Only 2 left at this price on our site
+378,Paris,515,Hotel La Villa Saint Germain Des Prés,"6th arr., Paris",1.3 km from downtown,9.5,Exceptional,492,23,Location 9.9,FALSE,Only 1 room left at this price on our site
+379,Paris,520,Hôtel De Sers Champs Elysées Paris,"8th arr., Paris",3.9 km from downtown,8.4,Very Good,459,61,Location 9.5,FALSE,Only 6 rooms left at this price on our site
+380,Venice,525,Hilton Molino Stucky Venice,"Giudecca, Venice",1.6 km from downtown,8.3,Very Good,525,,,FALSE,Only 6 rooms left at this price on our site
+381,Switzerland,527,Swiss Hotel Apartments - Interlaken,"Central Interlaken, Interlaken",,9.2,Wonderful,527,,,FALSE,Only 3 left at this price on our site
+382,Venice,527,Ca' Sagredo Hotel,"Cannaregio, Venice",0.8 km from downtown,8.4,Very Good,527,,Location 9.3,FALSE,Only 1 room left at this price on our site
+383,Switzerland,527,Chalet RoyAlp Hôtel & Spa,Villars-sur-Ollon,,8.9,Excellent,527,,,TRUE,Only 5 rooms left at this price on our site
+384,Switzerland,531,Precise Tale Seehof Davos,Davos,,8.4,Very Good,531,,,TRUE,Only 1 room left at this price on our site
+385,Paris,531,Monsieur George Hotel & Spa - Champs-Elysées,"8th arr., Paris",4 km from downtown,9,Wonderful,508,23,Location 9.6,FALSE,Only 1 room left at this price on our site
+386,Paris,534,Juliana Hotel Paris,"7th arr., Paris",3.5 km from downtown,8.6,Excellent,511,23,Location 9.3,FALSE,
+387,Switzerland,535,"Grand Hotel Belvedere, a Beaumier Hotel",Wengen,,10,Exceptional,535,,,TRUE,
+388,Paris,536,Hotel Marignan Champs-Elysées,"8th arr., Paris",3.5 km from downtown,8.6,Excellent,513,23,Location 9.7,FALSE,
+389,Rome,536,Elizabeth Unique Hotel | a Member of Design Hotels™,"Spagna, Rome",1.3 km from downtown,9.1,Wonderful,515,21,Location 9.6,TRUE,Only 1 room left at this price on our site
+390,Switzerland,537,Hôtel Métropole Genève,"Downtown, Geneva",,8.1,Very Good,537,,,FALSE,
+391,Switzerland,537,Swiss Luxury Apartments,"Paquis, Geneva",,9.4,Wonderful,537,,,FALSE,Only 2 left at this price on our site
+392,Rome,540,W Rome,"Via Veneto, Rome",1.3 km from downtown,9.1,Wonderful,519,21,Location 9.3,TRUE,Only 2 rooms left at this price on our site
+393,Paris,540,"Kimpton - St Honoré Paris, an IHG Hotel","2nd arr., Paris",2.1 km from downtown,8.5,Very Good,517,23,Location 9.6,FALSE,Only 6 rooms left at this price on our site
+394,Paris,544,"InterContinental Paris Le Grand, an IHG Hotel","9th arr., Paris",2.2 km from downtown,8.6,Excellent,521,23,Location 9.5,FALSE,Only 6 rooms left at this price on our site
+395,Venice,544,"Radisson Collection Hotel, Palazzo Nani Venice","Cannaregio, Venice",1.6 km from downtown,9.3,Wonderful,544,,,TRUE,Only 4 rooms left at this price on our site
+396,Paris,544,SO/ Paris Hotel,"4th arr., Paris",1.1 km from downtown,9,Wonderful,521,23,,FALSE,Only 7 rooms left at this price on our site
+397,Switzerland,549,Panorama Resort & Spa,Feusisberg,,9,Wonderful,549,,,TRUE,
+398,Switzerland,549,Grand Hôtel du Golf & Palace,Crans-Montana,,6.6,Review score,549,,,TRUE,Only 5 rooms left at this price on our site
+399,Amsterdam,550,The Dylan Amsterdam - The Leading Hotels of the World,"Amsterdam City Center, Amsterdam",0.7 km from downtown,9.2,Wonderful,511,"1 night, 2 adults",Location 9.7,FALSE,
+400,Paris,553,La Fantaisie,"9th arr., Paris",2.2 km from downtown,9.3,Wonderful,530,23,Location 9.3,FALSE,
+401,Rome,555,"The Westin Excelsior, Rome","Via Veneto, Rome",1.4 km from downtown,7.7,Good,486,69,,FALSE,Only 7 rooms left at this price on our site
+402,Rome,558,The First Dolce - Preferred Hotels & Resorts,"Spagna, Rome",1.3 km from downtown,9.5,Exceptional,537,21,Location 9.8,FALSE,Only 2 rooms left at this price on our site
+403,Rome,558,The First Arte - Preferred Hotels & Resorts,"Spagna, Rome",1.5 km from downtown,9.1,Wonderful,537,21,Location 9.6,FALSE,Only 4 rooms left at this price on our site
+404,Paris,560,Renaissance Paris Arc de Triomphe Hotel,"17th arr., Paris",4.6 km from downtown,8.1,Very Good,537,23,Location 9.3,FALSE,Only 5 rooms left at this price on our site
+405,Paris,560,Majestic Apartments Champs Elysées,"16th arr., Paris",4.5 km from downtown,7.3,Good,538,22,,FALSE,
+406,Rome,561,Hotel Palazzo Manfredi – Small Luxury Hotels of the World,"Rione Monti, Rome",1.2 km from downtown,8.6,Excellent,540,21,Location 9.5,FALSE,Only 1 left at this price on our site
+407,Rome,561,"InterContinental Rome Ambasciatori Palace, an IHG Hotel","Via Veneto, Rome",1.3 km from downtown,8.8,Excellent,540,21,,FALSE,Only 5 rooms left at this price on our site
+408,Paris,562,Hotel Hana,"2nd arr., Paris",1.8 km from downtown,8.9,Excellent,539,23,Location 9.3,FALSE,Only 7 rooms left at this price on our site
+409,Rome,564,NH Collection Roma Fori Imperiali,"Trevi, Rome",200 m from downtown,8.9,Excellent,543,21,Location 9.7,FALSE,
+410,Paris,568,Sofitel Paris Le Faubourg,"8th arr., Paris",2.5 km from downtown,8.4,Very Good,545,23,Location 9.6,FALSE,Only 7 rooms left at this price on our site
+411,Amsterdam,571,De L’Europe Amsterdam – The Leading Hotels of the World,"Amsterdam City Center, Amsterdam",0.6 km from downtown,8.9,Excellent,512,"1 night, 2 adults",Location 9.7,FALSE,Only 6 rooms left at this price on our site
+412,Switzerland,573,Hotel Schweizerhof Zürich,"Zurich Old Town - City Center, Zurich",,8.9,Excellent,573,,,FALSE,
+413,London,576,Verride Palácio Santa Catarina,"Misericordia, Lisbon",0.8 km from downtown,9.3,Wonderful,568,,Location 9.6,TRUE,Only 1 room left at this price on our site
+414,Lisbon,576,Verride Palácio Santa Catarina,"Misericordia, Lisbon",0.8 km from downtown,9.3,Wonderful,568,,Location 9.6,TRUE,Only 1 room left at this price on our site
+415,Switzerland,579,Hôtel Les Armures,"Downtown, Geneva",,9.2,Wonderful,579,,,FALSE,
+416,Switzerland,582,Beau-Rivage Palace,Lausanne,,9.4,Wonderful,582,,,FALSE,
+417,Lisbon,584,"The Ivens, Autograph Collection","Santa Maria Maior, Lisbon",450 m from downtown,9.3,Wonderful,576,,Location 9.8,FALSE,
+418,London,584,"The Ivens, Autograph Collection","Santa Maria Maior, Lisbon",450 m from downtown,9.3,Wonderful,576,,Location 9.8,FALSE,
+419,Paris,589,L'Hôtel,"6th arr., Paris",1.2 km from downtown,8.6,Excellent,566,23,Location 9.7,FALSE,Only 2 rooms left at this price on our site
+420,Paris,589,Manolita Paris,"18th arr., Paris",3.3 km from downtown,9.3,Wonderful,566,23,Location 9.3,FALSE,Only 1 room left at this price on our site
+421,Rome,589,Hotel d’Inghilterra Roma – Starhotels Collezione,"Spagna, Rome",1 km from downtown,9.5,Exceptional,568,21,Location 9.9,FALSE,
+422,Paris,591,Hotel Bowmann,"8th arr., Paris",3.2 km from downtown,8.8,Excellent,568,23,,FALSE,
+423,Rome,591,DOM Hotel Roma - Preferred Hotels & Resorts,"Navona, Rome",1.3 km from downtown,8.6,Excellent,570,21,,FALSE,Only 3 rooms left at this price on our site
+424,Switzerland,602,Hotel Bellevue Palace Bern,"Old City of Bern, Bern",,9.1,Wonderful,602,,,FALSE,
+425,Switzerland,602,Blonay Garden Apartment - Swiss Hotel Apartments,Blonay,,8,Very Good,602,,,FALSE,Only 1 left at this price on our site
+426,Switzerland,603,Hotel Flüela Davos - The Unbound Collection by Hyatt,Davos,,8.9,Excellent,603,,,TRUE,Only 2 left at this price on our site
+427,Switzerland,604,Fairmont Le Montreux Palace,"Montreux City Centre, Montreux",,8.8,Excellent,604,,,FALSE,Only 7 rooms left at this price on our site
+428,Paris,606,La Demeure Montaigne,"8th arr., Paris",3.7 km from downtown,9.1,Wonderful,583,23,Location 9.7,FALSE,Only 6 rooms left at this price on our site
+429,Switzerland,606,La Réserve Genève Hotel & Spa,Geneva,,8.9,Excellent,606,,,FALSE,
+430,Budapest,606,Four Seasons Hotel Gresham Palace Budapest,"05. Belváros - Lipótváros, Budapest",0.7 km from downtown,9.3,Wonderful,606,,Location 9.8,FALSE,
+431,Paris,608,Paris Marriott Champs Elysees Hotel,"8th arr., Paris",3.8 km from downtown,7.4,Good,585,23,Location 9.3,FALSE,Only 3 rooms left at this price on our site
+432,Paris,612,Pavillon Faubourg Saint-Germain & Spa,"7th arr., Paris",1.5 km from downtown,8.9,Excellent,589,23,Location 9.5,FALSE,Only 2 rooms left at this price on our site
+433,Venice,620,Sina Centurion Palace,"Dorsoduro, Venice",0.5 km from downtown,8.7,Excellent,620,,Location 9.4,TRUE,Only 4 rooms left at this price on our site
+434,Copenhagen,620,Hotel Sanders,"Copenhagen Center, Copenhagen",0.5 km from downtown,8.8,Excellent,620,"1 night, 2 adults",Location 9.8,FALSE,
+435,Rome,623,Palazzo Ripetta,"Spagna, Rome",1.5 km from downtown,9.5,Exceptional,602,21,Location 9.8,FALSE,
+436,Switzerland,625,Villars Palace,Villars-sur-Ollon,,9.2,Wonderful,625,,,TRUE,Only 5 rooms left at this price on our site
+437,Paris,630,Hôtel Regina Louvre,"1st arr., Paris",1.6 km from downtown,8.9,Excellent,607,23,Location 9.8,FALSE,Only 5 rooms left at this price on our site
+438,Paris,630,"Le Dokhan's Paris Arc de Triomphe, a Tribute Portfolio Hotel","16th arr., Paris",4.9 km from downtown,7.2,Good,607,23,,FALSE,Only 2 rooms left at this price on our site
+439,Switzerland,631,Romantik Hotel Schweizerhof,Grindelwald,,8.4,Very Good,631,,,TRUE,
+440,Paris,632,"Hôtel de Berri Champs-Élysées, a Luxury Collection Hotel","8th arr., Paris",3.8 km from downtown,8.6,Excellent,609,23,Location 9.5,FALSE,Only 7 rooms left at this price on our site
+441,Paris,632,Hôtel Lancaster Paris Champs-Elysées,"8th arr., Paris",3.9 km from downtown,8.8,Excellent,609,23,Location 9.6,FALSE,
+442,Switzerland,637,"Hotel President Wilson, a Luxury Collection Hotel, Geneva","Paquis, Geneva",,8.4,Very Good,637,,,FALSE,Only 5 rooms left at this price on our site
+443,Rome,638,Maalot Roma - Small Luxury Hotels of the World,"Trevi, Rome",0.5 km from downtown,9.7,Exceptional,617,21,Location 9.7,TRUE,Only 6 rooms left at this price on our site
+444,Switzerland,638,Lenkerhof gourmet spa resort - Relais & Châteaux,Lenk,,9,Wonderful,638,,,TRUE,Only 1 room left at this price on our site
+445,Paris,639,Hôtel Madame Rêve,"1st arr., Paris",1.1 km from downtown,9,Wonderful,616,23,Location 9.5,FALSE,
+446,Paris,644,Hôtel San Régis,"8th arr., Paris",3.3 km from downtown,8.9,Excellent,621,23,Location 9.6,FALSE,Only 4 rooms left at this price on our site
+447,Venice,648,Violino d'Oro Venezia,"San Marco, Venice",250 m from downtown,9.6,Exceptional,648,,Location 9.9,TRUE,Only 2 rooms left at this price on our site
+448,Switzerland,653,"Mandarin Oriental Palace, Luzern",Lucerne,,9.2,Wonderful,653,,,FALSE,
+449,Paris,653,"Hôtel du Louvre, in The Unbound Collection by Hyatt","1st arr., Paris",1.4 km from downtown,8.8,Excellent,630,23,Location 9.7,FALSE,
+450,Amsterdam,653,Conservatorium Hotel,"Oud Zuid, Amsterdam",1.9 km from downtown,9,Wonderful,586,"1 night, 2 adults",Location 9.4,FALSE,Only 6 rooms left at this price on our site
+451,Switzerland,656,Arosa Kulm Hotel & Alpin Spa,Arosa,,8.8,Excellent,656,,,TRUE,Only 3 rooms left at this price on our site
+452,Paris,662,Le Roch Hotel & Spa,"1st arr., Paris",1.7 km from downtown,8.4,Very Good,639,23,Location 9.4,FALSE,Only 5 rooms left at this price on our site
+453,Paris,664,Maison Colbert Member of Meliá Collection Notre-Dame,"5th arr., Paris",0.6 km from downtown,8.7,Excellent,641,23,Location 9.6,FALSE,
+454,Paris,666,PARIS AUTHENTIC HOUSE Entier 1920's villa Métro Line 7,"13th arr., Paris",4.4 km from downtown,8.6,Excellent,454,212,,FALSE,Only 1 left at this price on our site
+455,Rome,673,Umiltà 36,"Trevi, Rome",400 m from downtown,9.5,Exceptional,652,21,Location 9.8,TRUE,Only 1 room left at this price on our site
+456,Copenhagen,675,Manon Les Suites Guldsmeden,"Copenhagen Center, Copenhagen",1.2 km from downtown,8.6,Excellent,675,"1 night, 2 adults",,FALSE,
+457,Venice,679,Londra Palace Venezia,"Castello, Venice",400 m from downtown,9.3,Wonderful,679,,Location 9.9,TRUE,Only 4 rooms left at this price on our site
+458,Paris,679,Brach Paris - Evok Collection,"16th arr., Paris",5.6 km from downtown,8.9,Excellent,656,23,,FALSE,
+459,Paris,681,Maison Boissière BARNES Residences,"16th arr., Paris",4.8 km from downtown,9,Wonderful,650,31,Location 9.4,FALSE,Only 3 left at this price on our site
+460,Rome,682,Rhinoceros,"Colosseo, Rome",0.7 km from downtown,9.2,Wonderful,670,12,Location 9.6,FALSE,Only 3 left at this price on our site
+461,Paris,691,Villa-des-Prés,"6th arr., Paris",1.2 km from downtown,9.6,Exceptional,668,23,Location 9.8,FALSE,
+462,Paris,692,Les Jardins du Faubourg Hotel & Spa by Shiseido,"8th arr., Paris",2.8 km from downtown,8.7,Excellent,669,23,Location 9.5,FALSE,
+463,Paris,692,Maison Albar - Le Pont-Neuf,"1st arr., Paris",0.7 km from downtown,8.9,Excellent,669,23,Location 9.5,FALSE,
+464,Switzerland,697,Chalet d'Adrien,Verbier,,8.9,Excellent,697,,,FALSE,Only 1 room left at this price on our site
+465,Switzerland,700,Hotel d'Angleterre,"Paquis, Geneva",,9,Wonderful,700,,,FALSE,Only 5 rooms left at this price on our site
+466,Amsterdam,703,"InterContinental Amstel Amsterdam, an IHG Hotel","Amsterdam City Center, Amsterdam",1.7 km from downtown,8.7,Excellent,631,"1 night, 2 adults",,FALSE,Only 6 rooms left at this price on our site
+467,Rome,703,The Rome EDITION,"Trevi, Rome",1.2 km from downtown,8,Very Good,620,83,,FALSE,Only 5 rooms left at this price on our site
+468,Paris,704,Hôtel D'Aubusson,"6th arr., Paris",0.9 km from downtown,9.2,Wonderful,681,23,Location 9.7,FALSE,
+469,Paris,708,Hôtel Elysia by Inwood Hotels,"8th arr., Paris",3.8 km from downtown,9.1,Wonderful,685,23,Location 9.4,FALSE,
+470,Paris,714,Nolinski Paris - Evok Collection,"1st arr., Paris",1.6 km from downtown,9,Wonderful,691,23,Location 9.5,FALSE,Only 5 rooms left at this price on our site
+471,Paris,719,"Le Pavillon de la Reine & Spa, Place des Vosges","3rd arr., Paris",1.1 km from downtown,9,Wonderful,696,23,Location 9.7,FALSE,Only 2 rooms left at this price on our site
+472,Rome,721,Margutta 19 - Small Luxury Hotels of the World,"Spagna, Rome",1.5 km from downtown,9.1,Wonderful,700,21,Location 9.8,TRUE,Only 3 left at this price on our site
+473,Paris,723,Le Burgundy Paris,"1st arr., Paris",2.3 km from downtown,8.9,Excellent,700,23,Location 9.7,FALSE,Only 4 rooms left at this price on our site
+474,Paris,723,Grand Hôtel Du Palais Royal,"1st arr., Paris",1.2 km from downtown,8.9,Excellent,700,23,Location 9.8,FALSE,
+475,Paris,726,Fauchon l'Hôtel Paris,"8th arr., Paris",2.6 km from downtown,9.3,Wonderful,703,23,Location 9.7,FALSE,Only 2 rooms left at this price on our site
+476,Switzerland,727,Hotel Royal,Crans-Montana,,8.6,Excellent,727,,,FALSE,
+477,Paris,730,Sinner Paris,"3rd arr., Paris",0.9 km from downtown,8.7,Excellent,707,23,,FALSE,Only 5 rooms left at this price on our site
+478,Switzerland,736,"HeidiHoliday-Jenins Grand Maisonette-Attika mit Office & Relax-Bereich, Aussenparkplatz & Garage, geschützte Sonnen-Panoramaterrasse, Aufgewertet 2024",Jenins,,8.6,Excellent,736,,,FALSE,Only 1 left at this price on our site
+479,Rome,736,Palazzo Roma - The Leading Hotels of the World,"Pantheon, Rome",0.5 km from downtown,9.5,Exceptional,715,21,Location 9.8,TRUE,Only 2 rooms left at this price on our site
+480,Paris,736,Hôtel Vernet Champs Elysées Paris,"8th arr., Paris",4.3 km from downtown,9.1,Wonderful,663,73,Location 9.6,FALSE,Only 6 rooms left at this price on our site
+481,Paris,738,Le Narcisse Blanc,"7th arr., Paris",3 km from downtown,9.2,Wonderful,715,23,Location 9.6,FALSE,Only 1 room left at this price on our site
+482,Paris,754,La Source Exclusive Apartment,"8th arr., Paris",3.1 km from downtown,9.3,Wonderful,754,0,Location 9.6,FALSE,Only 1 left at this price on our site
+483,Switzerland,755,Victoria Jungfrau Grand Hotel & Spa,"Central Interlaken, Interlaken",,9,Wonderful,755,,,TRUE,
+484,Paris,761,Quartier Libre Opera,"9th arr., Paris",2.4 km from downtown,9,Wonderful,636,125,Location 9.6,FALSE,Only 4 left at this price on our site
+485,Rome,762,Hotel Vilòn - Small Luxury Hotels of the World,"Spagna, Rome",1.1 km from downtown,9.5,Exceptional,741,21,Location 9.8,TRUE,Only 3 rooms left at this price on our site
+486,Paris,764,Maison Delano Paris,"8th arr., Paris",2.7 km from downtown,8.1,Very Good,741,23,Location 9.7,FALSE,Only 7 rooms left at this price on our site
+487,Switzerland,767,The View Lugano,Lugano,,9.1,Wonderful,767,,,TRUE,Only 1 left at this price on our site
+488,Switzerland,769,Waldhotel by Bürgenstock,Bürgenstock,,9.3,Wonderful,769,,,TRUE,
+489,Switzerland,789,"Mandarin Oriental, Geneva","Saint-Gervais / des Grottes, Geneva",,8.6,Excellent,789,,,FALSE,Only 6 rooms left at this price on our site
+490,Amsterdam,800,Waldorf Astoria Amsterdam,"Amsterdam City Center, Amsterdam",0.9 km from downtown,9.5,Exceptional,800,"1 night, 2 adults",Location 9.7,FALSE,Only 2 rooms left at this price on our site
+491,Switzerland,802,Grand Resort Bad Ragaz,Bad Ragaz,,9.4,Wonderful,802,,,TRUE,
+492,Rome,803,Palazzo Talìa - Small Luxury Hotels of the World,"Spagna, Rome",0.8 km from downtown,9.2,Wonderful,782,21,Location 9.8,TRUE,Only 2 rooms left at this price on our site
+493,Rome,805,Anantara Palazzo Naiadi Rome Hotel - A Leading Hotel of the World,"Central Station, Rome",1.3 km from downtown,8.9,Excellent,784,21,,TRUE,Only 7 rooms left at this price on our site
+494,Paris,817,Château Voltaire,"1st arr., Paris",1.8 km from downtown,9.4,Wonderful,794,23,Location 9.6,FALSE,Only 1 room left at this price on our site
+495,Switzerland,823,The Dolder Grand - City and Spa Resort Zurich,"Zürichberg, Zurich",,9,Wonderful,823,,,FALSE,Only 7 rooms left at this price on our site
+496,Paris,835,Le Grand Mazarin,"4th arr., Paris",250 m from downtown,9.1,Wonderful,812,23,Location 9.6,FALSE,Only 1 room left at this price on our site
+497,Rome,843,Palazzo Dama - Hotel & SPA - Preferred Hotels & Resorts,"Spagna, Rome",1.8 km from downtown,8.9,Excellent,822,21,,FALSE,Only 4 left at this price on our site
+498,Switzerland,856,Park Hyatt Zurich – City Center Luxury,"Enge, Zurich",,9,Wonderful,856,,,FALSE,
+499,Switzerland,856,Storchen Zürich - Lifestyle boutique Hotel,Zurich,,9.1,Wonderful,856,,,FALSE,Only 2 rooms left at this price on our site
+500,Dubrovnik,875,Palazzo Vimbula - Five Star Luxury Villa,Mokošica,4.2 km from Dubrovnik,9,Wonderful,875,,,TRUE,
+501,Switzerland,878,"Mandarin Oriental Savoy, Zurich",Zurich,,9.2,Wonderful,878,,,FALSE,Only 6 rooms left at this price on our site
+502,Paris,883,Relais Christine,"6th arr., Paris",0.9 km from downtown,9.1,Wonderful,860,23,Location 9.7,FALSE,Only 2 rooms left at this price on our site
+503,Switzerland,884,Mont Cervin Palace,"City Centre, Zermatt",,9,Wonderful,884,,,TRUE,Only 2 rooms left at this price on our site
+504,Switzerland,896,Relais & Châteaux Chasa Montana,Samnaun,,9.7,Exceptional,896,,,TRUE,Only 5 rooms left at this price on our site
+505,Switzerland,906,Beau-Rivage Genève,"Paquis, Geneva",,8.9,Excellent,906,,,FALSE,Only 5 rooms left at this price on our site
+506,Dubrovnik,916,New & Luxury Breathtaking view apartment Ragusea,"Ploce, Dubrovnik",0.5 km from downtown,10,Exceptional,916,,,FALSE,
+507,Switzerland,933,Kempinski Palace Engelberg,Engelberg,,9.4,Wonderful,933,,,TRUE,Only 1 room left at this price on our site
+508,Paris,935,MARQUIS Faubourg Saint-Honoré Relais & Châteaux,"8th arr., Paris",2.7 km from downtown,8.4,Very Good,829,106,Location 9.5,FALSE,
+509,Paris,940,Saint James Paris,"16th arr., Paris",5.5 km from downtown,9.1,Wonderful,917,23,,FALSE,Only 3 rooms left at this price on our site
+510,Switzerland,944,Widder Hotel - Zurichs luxury hideaway,Zurich,,9.3,Wonderful,944,,,FALSE,
+511,Paris,949,"Maison Proust, Hotel & Spa La Mer","3rd arr., Paris",1.2 km from downtown,9.3,Wonderful,926,23,Location 9.4,FALSE,
+512,Rome,952,The St. Regis Rome,"Central Station, Rome",1.4 km from downtown,9.1,Wonderful,847,105,,FALSE,Only 5 rooms left at this price on our site
+513,Paris,959,"Prince de Galles, a Luxury Collection hotel, Paris","8th arr., Paris",4 km from downtown,8.5,Very Good,936,23,Location 9.7,FALSE,Only 5 rooms left at this price on our site
+514,Rome,965,Villa Agrippina Gran Meliá – The Leading Hotels of the World,"Trastevere, Rome",1.8 km from downtown,9,Wonderful,944,21,Location 9.4,TRUE,
+515,Switzerland,966,Bürgenstock Hotel & Alpine Spa,Bürgenstock,,9.4,Wonderful,966,,,TRUE,
+516,Rome,978,Fendi Private Suites - Small Luxury Hotels of the World,"Spagna, Rome",1 km from downtown,9.1,Wonderful,957,21,Location 9.8,TRUE,Only 1 left at this price on our site
+517,Switzerland,983,Grand Hotel LES TROIS ROIS,"Old Town Grossbasel, Basel",,9.4,Wonderful,983,,,FALSE,
+518,Switzerland,987,Hotel Villa Honegg,Ennetbürgen,,9.3,Wonderful,987,,,TRUE,Only 1 room left at this price on our site
+519,Switzerland,988,La Réserve Eden au Lac Zurich,"Seefeld, Zurich",,9,Wonderful,988,,,FALSE,Only 7 rooms left at this price on our site
+520,Rome,1008,Six Senses Rome,"Pantheon, Rome",300 m from downtown,9.1,Wonderful,916,92,Location 9.5,TRUE,
+521,Switzerland,1009,Baur au Lac,"Zurich Old Town - City Center, Zurich",,9.1,Wonderful,1009,,,FALSE,
+522,Switzerland,1015,"The Ritz-Carlton Hotel de la Paix, Geneva","Saint-Gervais / des Grottes, Geneva",,8.8,Excellent,1015,,,FALSE,Only 5 rooms left at this price on our site
+523,Venice,1029,The Venice Venice Hotel,"Cannaregio, Venice",0.7 km from downtown,9.5,Exceptional,1029,,Location 9.8,TRUE,Only 1 room left at this price on our site
+524,Paris,1052,Cour des Vosges - Evok Collection,"4th arr., Paris",1 km from downtown,8.7,Excellent,1029,23,Location 9.7,FALSE,Only 1 room left at this price on our site
+525,Switzerland,1065,Tschuggen Grand Hotel - The Leading Hotels of the World,Arosa,,9.3,Wonderful,1065,,,TRUE,Only 7 rooms left at this price on our site
+526,Venice,1080,Nolinski Venezia - Evok Collection,"San Marco, Venice",300 m from downtown,9.5,Exceptional,1080,,Location 9.9,FALSE,Only 3 rooms left at this price on our site
+527,Paris,1081,Hôtel Le Royal Monceau Raffles Paris,"8th arr., Paris",4.3 km from downtown,9,Wonderful,1049,32,,FALSE,Only 7 rooms left at this price on our site
+528,Lisbon,1088,Four Seasons Hotel Ritz Lisbon,"Avenidas Novas, Lisbon",1.9 km from downtown,9,Wonderful,1080,,,FALSE,
+529,London,1088,Four Seasons Hotel Ritz Lisbon,"Avenidas Novas, Lisbon",1.9 km from downtown,9,Wonderful,1080,,,FALSE,
+530,Paris,1122,Hôtel Barrière Fouquet's Paris,"8th arr., Paris",4 km from downtown,9.3,Wonderful,1099,23,Location 9.8,FALSE,
+531,Venice,1142,Palazzo Venart Luxury Hotel,"Santa Croce, Venice",1.1 km from downtown,9.5,Exceptional,1142,,Location 9.6,TRUE,Only 1 room left at this price on our site
+532,Rome,1144,Portrait Roma - Lungarno Collection,"Spagna, Rome",1.1 km from downtown,9.9,Exceptional,1132,12,Location 10,TRUE,Only 3 left at this price on our site
+533,Rome,1162,Hotel Eden - Dorchester Collection,"Via Veneto, Rome",1.3 km from downtown,9.3,Wonderful,1141,21,Location 9.4,FALSE,
+534,Paris,1190,Paris j'Adore Hotel & Spa,"17th arr., Paris",3.7 km from downtown,9,Wonderful,1167,23,,FALSE,Only 4 rooms left at this price on our site
+535,Paris,1195,Hotel Splendide Royal Paris - Relais & Châteaux,"8th arr., Paris",3.1 km from downtown,9,Wonderful,1172,23,Location 9.6,FALSE,Only 1 left at this price on our site
+536,Switzerland,1195,Swiss Hotel Apartments - Engelberg,Engelberg,,9.2,Wonderful,1195,,,FALSE,Only 1 left at this price on our site
+537,Copenhagen,1227,Nimb Hotel,"Copenhagen Center, Copenhagen",1 km from downtown,9.3,Wonderful,1227,"1 night, 2 adults",Location 9.8,FALSE,
+538,Dubrovnik,1235,Villa Lapisa,"Old Town, Dubrovnik",100 m from downtown,9.9,Exceptional,1235,,,TRUE,
+539,Switzerland,1263,Guarda Golf Hotel & Residences,Crans-Montana,,9.5,Exceptional,1263,,,TRUE,Only 1 room left at this price on our site
+540,Rome,1294,Rocco Forte Hotel De La Ville,"Spagna, Rome",1.1 km from downtown,9.2,Wonderful,1273,21,Location 9.8,FALSE,
+541,Switzerland,1321,Montreux Grand Rue - Swiss Hotel Apartments,"Montreux City Centre, Montreux",,8.6,Excellent,1321,,,FALSE,Only 1 left at this price on our site
+542,Rome,1359,J.K. Place Roma - The Leading Hotels of the World,"Spagna, Rome",1.1 km from downtown,9.6,Exceptional,1338,21,Location 9.7,TRUE,Only 5 rooms left at this price on our site
+543,Paris,1367,J.K. Place Paris,"7th arr., Paris",2.2 km from downtown,9.4,Wonderful,1344,23,Location 9.5,FALSE,Only 5 rooms left at this price on our site
+544,Switzerland,1372,Giardino Mountain,St. Moritz,,9.1,Wonderful,1372,,,TRUE,
+545,Rome,1400,Hassler Roma,"Spagna, Rome",1.1 km from downtown,9.2,Wonderful,1379,21,Location 9.7,FALSE,
+546,Paris,1405,Park Hyatt Paris - Vendôme,"2nd arr., Paris",2 km from downtown,8.8,Excellent,1373,32,Location 9.8,FALSE,Only 6 rooms left at this price on our site
+547,Venice,1415,The St. Regis Venice,"San Marco, Venice",300 m from downtown,9.3,Wonderful,1415,,Location 9.8,FALSE,Only 5 rooms left at this price on our site
+548,Paris,1464,Esprit Saint Germain,"6th arr., Paris",1.2 km from downtown,8.6,Excellent,1441,23,Location 9.4,FALSE,Only 1 left at this price on our site
+549,Paris,1514,Shangri-La Paris,"16th arr., Paris",4.3 km from downtown,9,Wonderful,1482,32,Location 9.4,FALSE,Only 5 rooms left at this price on our site
+550,Switzerland,1526,Four Seasons Hotel des Bergues Geneva,"Saint-Gervais / des Grottes, Geneva",,9.2,Wonderful,1526,,,FALSE,
+551,Switzerland,1613,W Verbier,Verbier,,8.7,Excellent,1613,,,TRUE,Only 2 rooms left at this price on our site
+552,Rome,1661,Bulgari Hotel Roma,"Spagna, Rome",1.3 km from downtown,9.6,Exceptional,1491,170,Location 9.7,TRUE,Only 5 rooms left at this price on our site
+553,Paris,1694,Hotel Lutetia,"6th arr., Paris",1.9 km from downtown,9.4,Wonderful,1662,32,Location 9.6,FALSE,
+554,Switzerland,1702,Six Senses Crans-Montana,Crans-Montana,,9.1,Wonderful,1702,,,TRUE,
+555,Paris,1727,Maison Villeroy,"8th arr., Paris",3.5 km from downtown,9.4,Wonderful,1704,23,Location 9.8,FALSE,Only 3 rooms left at this price on our site
+556,Rome,1730,Rocco Forte Hotel De Russie,"Spagna, Rome",1.6 km from downtown,8.9,Excellent,1709,21,Location 9.7,FALSE,
+557,Amsterdam,1749,Hotel TwentySeven - Small Luxury Hotels of the World,"Amsterdam City Center, Amsterdam",50 m from downtown,9.7,Exceptional,1569,"1 night, 2 adults",Location 9.9,FALSE,Only 1 left at this price on our site
+558,Venice,1749,"The Gritti Palace, a Luxury Collection Hotel, Venice","San Marco, Venice",500 m from downtown,9.3,Wonderful,1749,,Location 9.8,FALSE,Only 4 rooms left at this price on our site
+559,Paris,1791,The Peninsula Paris,"16th arr., Paris",4.5 km from downtown,9.2,Wonderful,1759,32,Location 9.4,FALSE,
+560,Paris,1833,"Mandarin Oriental, Paris","1st arr., Paris",2.1 km from downtown,8.6,Excellent,1801,32,Location 9.6,FALSE,
+561,Paris,1935,Le Meurice – Dorchester Collection,"1st arr., Paris",2 km from downtown,9.2,Wonderful,1903,32,Location 9.7,FALSE,
+562,Amsterdam,1945,Crane Hotel Faralda,"Amsterdam Noord, Amsterdam",2.9 km from downtown,8.8,Excellent,1745,"1 night, 2 adults",,FALSE,Only 1 left at this price on our site
+563,Paris,1951,Hotel de Crillon,"8th arr., Paris",2.5 km from downtown,9.3,Wonderful,1919,32,Location 9.8,FALSE,Only 1 room left at this price on our site
+564,Paris,1967,Le Bristol Paris - an Oetker Collection Hotel,"8th arr., Paris",3.2 km from downtown,9.2,Wonderful,1935,32,Location 9.6,FALSE,Only 7 rooms left at this price on our site
+565,Paris,1978,Bulgari Hotel Paris,"8th arr., Paris",3.9 km from downtown,9.6,Exceptional,1955,23,Location 9.9,FALSE,Only 5 rooms left at this price on our site
+566,Dubrovnik,2057,KINGS LANDING 5 stars PENTHOUSE,"Ploce, Dubrovnik",0.6 km from downtown,10,Exceptional,2057,,,FALSE,
+567,Paris,2193,Hôtel Plaza Athénée - Dorchester Collection,"8th arr., Paris",3.6 km from downtown,9.1,Wonderful,2161,32,Location 9.8,FALSE,
+568,Paris,2221,La Réserve Paris Hotel & Spa,"8th arr., Paris",3.1 km from downtown,9.7,Exceptional,2189,32,Location 9.9,FALSE,Only 2 rooms left at this price on our site
+569,Paris,2544,Cheval Blanc Paris & Dior Spa Cheval Blanc Paris,"1st arr., Paris",0.7 km from downtown,9.4,Wonderful,2521,23,Location 9.5,FALSE,Only 1 room left at this price on our site
+570,Paris,2604,Four Seasons Hotel George V Paris,"8th arr., Paris",3.9 km from downtown,9.4,Wonderful,2572,32,Location 9.8,FALSE,
+571,Switzerland,2705,Ski Paradise MOUNTAIN & LUXE apartments,Veysonnaz,,8.8,Excellent,2705,,,FALSE,Only 1 left at this price on our site
+572,Switzerland,2705,Ski in Ski out LUXURY & MOUNTAIN apartments by Alpvision Résidences,Veysonnaz,,8,Very Good,2705,,,FALSE,Only 1 left at this price on our site
+573,Switzerland,2749,Kulm Hotel St. Moritz,St. Moritz,,9.3,Wonderful,2749,,,TRUE,Only 5 rooms left at this price on our site
+574,Switzerland,2943,"Hostellerie du Pas de l'Ours ""Relais et Châteaux""",Crans-Montana,,9.3,Wonderful,2943,,,FALSE,Only 1 left at this price on our site
+575,Switzerland,3013,Badrutt's Palace Hotel St Moritz,St. Moritz,,9.2,Wonderful,3013,,,TRUE,Only 3 rooms left at this price on our site
+576,Kotor,3809,Villa Eagle Eye Montenegro,Kotor,4 km from downtown,9,Wonderful,3807,,,FALSE,Only 1 left at this price on our site
+577,Dubrovnik,4167,Luxury Villa Coral in Dubrovnik,Čilipi,17.5 km from Dubrovnik,,,4167,,,FALSE,
+578,Switzerland,5125,Croix Noires FABULOUS & LUXURY chalet 11 pers by Alpvision Résidences,Vex,,10,Exceptional,5125,,,FALSE,Only 1 left at this price on our site
+579,Switzerland,9508,Le Grand Bellevue,Gstaad,,9.4,Wonderful,9508,,,FALSE,Only 1 room left at this price on our site
+580,Madrid,,Eurostars Suites Mirasierra,"Fuencarral-El Pardo, Madrid",7.8 km from downtown,8.7,Excellent,162,,,FALSE,
+581,Madrid,,Barceló Imagine,"Chamartín, Madrid",6.2 km from downtown,9.2,Wonderful,183,,,FALSE,Only 5 rooms left at this price on our site
+582,Madrid,,Hotel Puerta America,"Chamartín, Madrid",3.9 km from downtown,8.4,Very Good,184,,,FALSE,
+583,Madrid,,Hyatt Regency Hesperia Madrid,"Chamberi, Madrid",2.7 km from downtown,8.8,Excellent,188,,,FALSE,
+584,Madrid,,Eurostars Madrid Tower,"Fuencarral-El Pardo, Madrid",7 km from downtown,8.8,Excellent,204,,,FALSE,
+585,Madrid,,Barceló Emperatriz,"Salamanca, Madrid",2.6 km from downtown,8.8,Excellent,209,,,FALSE,Only 5 rooms left at this price on our site
+586,Madrid,,UMusic Hotel Madrid,"Madrid City Center, Madrid",150 m from downtown,8.8,Excellent,230,,,FALSE,
+587,Madrid,,NH Collection Madrid Paseo del Prado,"Madrid City Center, Madrid",0.8 km from downtown,8.5,Very Good,232,,,FALSE,
+588,Madrid,,NH Collection Madrid Suecia,"Madrid City Center, Madrid",0.6 km from downtown,8.7,Excellent,232,,,FALSE,
+589,Madrid,,"Hotel Villa Real, a member of Preferred Hotels & Resorts","Madrid City Center, Madrid",0.6 km from downtown,8.8,Excellent,241,,,FALSE,
+590,Madrid,,"InterContinental Madrid, an IHG Hotel","Chamberi, Madrid",2.5 km from downtown,8.8,Excellent,254,,,FALSE,
+591,Madrid,,Melia Madrid Princesa,"Moncloa-Aravaca, Madrid",1.5 km from downtown,8.5,Very Good,259,,,FALSE,
+592,Madrid,,Barceló Torre de Madrid,"Moncloa-Aravaca, Madrid",1.1 km from downtown,8.7,Excellent,273,,,FALSE,Only 5 rooms left at this price on our site
+593,Madrid,,"Hotel Urban,a Member of Design Hotels","Madrid City Center, Madrid",400 m from downtown,9,Wonderful,299,,,FALSE,
+594,Madrid,,"Hotel Montera Madrid, Curio Collection By Hilton","Madrid City Center, Madrid",350 m from downtown,8.9,Excellent,299,,,FALSE,
+595,Madrid,,NH Collection Madrid Palacio de Tepa,"Madrid City Center, Madrid",350 m from downtown,8.6,Excellent,300,,,FALSE,
+596,Madrid,,Hyatt Regency Madrid Residences,"Salamanca, Madrid",2.5 km from downtown,8.6,Excellent,305,,,FALSE,Only 3 left at this price on our site
+597,Madrid,,"Hospes Puerta de Alcalá, a Member of Design Hotels","Salamanca, Madrid",1.3 km from downtown,8.7,Excellent,306,,,FALSE,Only 3 rooms left at this price on our site
+598,Madrid,,VP Plaza España Design,"Madrid City Center, Madrid",1 km from downtown,9.3,Wonderful,316,,,FALSE,
+599,Madrid,,"The Principal Madrid, Small Luxury Hotels","Madrid City Center, Madrid",0.6 km from downtown,8.7,Excellent,333,,,FALSE,
+600,Madrid,,"Hotel Palacio del Retiro, Autograph Collection","Retiro, Madrid",1.2 km from downtown,8.5,Very Good,350,,,FALSE,Only 5 rooms left at this price on our site
+601,Madrid,,Hyatt Centric Gran Via Madrid,"Madrid City Center, Madrid",350 m from downtown,8.9,Excellent,370,,,FALSE,
+602,Madrid,,Wellington Hotel & Spa Madrid,"Salamanca, Madrid",1.7 km from downtown,9.1,Wonderful,370,,,FALSE,
+603,Madrid,,"URSO Hotel & Spa, a Small Luxury Hotel of the World","Madrid City Center, Madrid",1.2 km from downtown,9.1,Wonderful,376,,,FALSE,
+604,Madrid,,"Thompson Madrid, by Hyatt","Madrid City Center, Madrid",200 m from downtown,9,Wonderful,391,,,FALSE,
