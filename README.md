@@ -1,2 +1,2 @@
-# hotel_db_project
-With travel costs rising, finding affordable yet well-rated hotels is important for budget-conscious travelers. By using SQL queries, this project aims to analyze hotel costs across various European cities to identify affordable options while considering factors such as ratings, location, and proximity to city centers.
+# hotel_reservation_db_project
+Booking a hotel often involves navigating a range of factors such as lead time, room type, special requests, and customer demographics. Using SQL queries, this project analyzes hotel reservation data to better understand booking patterns, cancellation trends, and customer behavior.
